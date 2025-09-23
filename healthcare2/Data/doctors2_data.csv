@@ -1,0 +1,651 @@
+Name,Registration_no,Qualifications,Specialization,Hospital/Clinic,Insurance,Location,Availability,Contact_no
+Dr. Anjali Deshmukh,MMC/2019/91664,"MBBS, MD",Gynecology,Ruby Hall Clinic,1,Deccan,"Mon-Fri 10-1, 5-8",8847223041
+Dr. Rajesh Kulkarni,MMC/2018/81234,"MBBS, MS",Orthopedics,Sahyadri Hospital,0,Deccan,"Tue-Sat 9-12, 6-9",9876543210
+Dr. Priya Nair,MMC/2020/76543,"MBBS, DNB",Pediatrics,Jehangir Hospital,1,Deccan,"Mon-Wed 11-2, Fri 5-8",9123456780
+Dr. Suresh Patil,MMC/2017/74321,"MBBS, DM",Cardiology,Dinanath Mangeshkar Hospital,0,Deccan,Mon-Fri 10-2,9765432109
+Dr. Kavita Joshi,MMC/2016/73456,"MBBS, MD",Pathology,Deenanath Lab,1,Deccan,Mon-Sat 9-1,9021345678
+Dr. Manish Agarwal,MMC/2018/76321,"MBBS, MS",Pulmonology,Sahyadri Hospital,1,Deccan,"Mon-Fri 11-2, 6-8",9823456710
+Dr. Neha Kulkarni,MMC/2019/82341,"MBBS, DNB",Dermatology,Inlaks Hospital,0,Deccan,Tue-Sat 12-3,9965432178
+Dr. Ramesh Shinde,MMC/2017/75643,"MBBS, DM",Urology,Poona Hospital,1,Deccan,"Mon-Fri 10-1, 5-7",9812345675
+Dr. Sneha Gupta,MMC/2020/78912,"MBBS, MD",Ophthalmology,HV Desai Eye Hospital,1,Deccan,"Mon-Sat 9-12, 4-6",9912345800
+Dr. Vinayak Patwardhan,MMC/2016/70123,"MBBS, MS",Neurology,Sahyadri Hospital,0,Deccan,Mon-Fri 10-2,9876501234
+Dr. Aarti Mehta,MMC/2019/76521,"MBBS, DNB",Otorhinolaryngology,KEM Hospital,1,Deccan,"Tue-Thu 11-3, Sat 5-7",9765409876
+Dr. Abhay Deshpande,MMC/2017/73412,"MBBS, MD",Psychiatry,Joshi Clinic,1,Deccan,"Mon-Fri 9-12, 5-8",9821345671
+Dr. Shweta Khot,MMC/2020/78234,"MBBS, MS",Dentistry,Smile Dental Care,0,Deccan,"Mon-Sat 10-2, 4-7",9834567810
+Dr. Akash Rao,MMC/2018/71345,"MBBS, DM",General Medicine,Ruby Hall Clinic,1,Deccan,"Mon-Fri 10-1, 6-8",9753124680
+Dr. Meera Dixit,MMC/2016/70987,"MBBS, MD",Endocrinology,Sahyadri Hospital,0,Deccan,Tue-Sat 11-2,9845632109
+Dr. Ravi Kulkarni,MMC/2018/74562,"MBBS, MS",Gynecology,Sahyadri Hospital,1,Shivaji Nagar,"Mon-Fri 10-1, 5-8",9123456712
+Dr. Asha Gupta,MMC/2017/74390,"MBBS, DNB",Orthopedics,Ruby Hall Clinic,0,Shivaji Nagar,"Tue-Sat 9-12, 6-9",9786512340
+Dr. Kiran Patil,MMC/2019/76234,"MBBS, MD",Pediatrics,Joshi Children’s Clinic,1,Shivaji Nagar,"Mon-Wed 11-2, Fri 5-8",9987654321
+Dr. Sandeep Naik,MMC/2016/73401,"MBBS, DM",Cardiology,Dinanath Mangeshkar Hospital,0,Shivaji Nagar,Mon-Fri 10-2,9898765432
+Dr. Jyoti Shah,MMC/2020/78231,"MBBS, MS",Pathology,Deenanath Lab,1,Shivaji Nagar,Mon-Sat 9-1,9123098765
+Dr. Mohan Jadhav,MMC/2017/71302,"MBBS, MD",Pulmonology,KEM Hospital,0,Shivaji Nagar,"Mon-Fri 11-2, 6-8",9765432108
+Dr. Sunita Menon,MMC/2018/78901,"MBBS, DNB",Dermatology,Inlaks Hospital,1,Shivaji Nagar,Tue-Sat 12-3,9823098765
+Dr. Harish Rane,MMC/2016/70321,"MBBS, DM",Urology,Poona Hospital,1,Shivaji Nagar,"Mon-Fri 10-1, 5-7",9976543210
+Dr. Pooja Iyer,MMC/2019/76789,"MBBS, MD",Ophthalmology,HV Desai Eye Hospital,0,Shivaji Nagar,"Mon-Sat 9-12, 4-6",9890123456
+Dr. Vivek Sharma,MMC/2018/76501,"MBBS, MS",Neurology,Sahyadri Hospital,1,Shivaji Nagar,Mon-Fri 10-2,9765012345
+Dr. Amrita Gokhale,MMC/2020/78012,"MBBS, DNB",Otorhinolaryngology,KEM Hospital,0,Shivaji Nagar,"Tue-Thu 11-3, Sat 5-7",9821345098
+Dr. Deepak Pawar,MMC/2017/75301,"MBBS, MD",Psychiatry,Joshi Clinic,1,Shivaji Nagar,"Mon-Fri 9-12, 5-8",9934567821
+Dr. Leena Sawant,MMC/2019/73456,"MBBS, DM",Dentistry,Smile Dental Care,0,Shivaji Nagar,"Mon-Sat 10-2, 4-7",9812345698
+Dr. Ajay Chavan,MMC/2016/72109,"MBBS, MS",General Medicine,Ruby Hall Clinic,1,Shivaji Nagar,"Mon-Fri 10-1, 6-8",9921345670
+Dr. Nisha Shetty,MMC/2018/74213,"MBBS, MD",Endocrinology,Sahyadri Hospital,0,Shivaji Nagar,Tue-Sat 11-2,9789012345
+Dr. Yogesh Kulkarni,MMC/2017/78956,"MBBS, DM",Gynecology,Dinanath Mangeshkar Hospital,1,Erandwane,"Mon-Fri 10-1, 5-8",9823109876
+Dr. Rashmi Desai,MMC/2019/76542,"MBBS, MS",Orthopedics,Ruby Hall Clinic,0,Erandwane,"Tue-Sat 9-12, 6-9",9987210345
+Dr. Sanjay Raut,MMC/2020/78210,"MBBS, DNB",Pediatrics,Joshi Children’s Clinic,1,Erandwane,"Mon-Wed 11-2, Fri 5-8",9845012398
+Dr. Smita Kapoor,MMC/2018/74560,"MBBS, MD",Cardiology,Sahyadri Hospital,0,Erandwane,Mon-Fri 10-2,9765432090
+Dr. Prakash Gaikwad,MMC/2016/73210,"MBBS, DM",Pathology,Deenanath Lab,1,Erandwane,Mon-Sat 9-1,9971234560
+Dr. Vandana Rao,MMC/2019/72109,"MBBS, MS",Pulmonology,KEM Hospital,0,Erandwane,"Mon-Fri 11-2, 6-8",9834567091
+Dr. Ashish Mehta,MMC/2017/73450,"MBBS, DNB",Dermatology,Inlaks Hospital,1,Erandwane,Tue-Sat 12-3,9921345678
+Dr. Shilpa Jagtap,MMC/2018/76012,"MBBS, MD",Urology,Poona Hospital,0,Erandwane,"Mon-Fri 10-1, 5-7",9765412309
+Dr. Vikas Iyer,MMC/2016/73120,"MBBS, DM",Ophthalmology,HV Desai Eye Hospital,1,Erandwane,"Mon-Sat 9-12, 4-6",9812365470
+Dr. Geeta Patil,MMC/2019/70123,"MBBS, MS",Neurology,Sahyadri Hospital,0,Erandwane,Mon-Fri 10-2,9956781230
+Dr. Milind Nair,MMC/2018/72108,"MBBS, DNB",Otorhinolaryngology,KEM Hospital,1,Erandwane,"Tue-Thu 11-3, Sat 5-7",9823409765
+Dr. Swati Bhosale,MMC/2020/76508,"MBBS, MD",Psychiatry,Joshi Clinic,0,Erandwane,"Mon-Fri 9-12, 5-8",9876512300
+Dr. Amit Shah,MMC/2017/74561,"MBBS, DM",Dentistry,Smile Dental Care,1,Erandwane,"Mon-Sat 10-2, 4-7",9765401239
+Dr. Reema Kothari,MMC/2019/73401,"MBBS, MS",General Medicine,Ruby Hall Clinic,0,Erandwane,"Mon-Fri 10-1, 6-8",9821354678
+Dr. Rohan Deshpande,MMC/2016/70120,"MBBS, MD",Endocrinology,Sahyadri Hospital,1,Erandwane,Tue-Sat 11-2,9987612340
+Dr. Seema Patwardhan,MMC/2017/72345,"MBBS, MD",Gynecology,Ruby Hall Clinic,1,Camp,"Mon-Fri 10-1, 5-8",9823145678
+Dr. Mahesh Sawant,MMC/2018/74562,"MBBS, MS",Orthopedics,Sahyadri Hospital,0,Camp,"Tue-Sat 9-12, 6-9",9932109876
+Dr. Rina Choudhary,MMC/2020/78214,"MBBS, DNB",Pediatrics,Joshi Children’s Clinic,1,Camp,"Mon-Wed 11-2, Fri 5-8",9912345780
+Dr. Gaurav Menon,MMC/2019/76235,"MBBS, DM",Cardiology,Dinanath Mangeshkar Hospital,0,Camp,Mon-Fri 10-2,9876543021
+Dr. Snehal Pawar,MMC/2016/70123,"MBBS, MD",Pathology,Deenanath Lab,1,Camp,Mon-Sat 9-1,9754312098
+Dr. Kunal Raje,MMC/2018/76590,"MBBS, MS",Pulmonology,KEM Hospital,0,Camp,"Mon-Fri 11-2, 6-8",9843125670
+Dr. Namrata Shetty,MMC/2017/73459,"MBBS, DNB",Dermatology,Inlaks Hospital,1,Camp,Tue-Sat 12-3,9765432189
+Dr. Sameer Kulkarni,MMC/2019/72347,"MBBS, DM",Urology,Poona Hospital,0,Camp,"Mon-Fri 10-1, 5-7",9821456701
+Dr. Leela Varma,MMC/2020/78965,"MBBS, MD",Ophthalmology,HV Desai Eye Hospital,1,Camp,"Mon-Sat 9-12, 4-6",9975432108
+Dr. Ashwin Bhat,MMC/2018/71342,"MBBS, MS",Neurology,Sahyadri Hospital,0,Camp,Mon-Fri 10-2,9912345672
+Dr. Prerna Dixit,MMC/2016/73211,"MBBS, DNB",Otorhinolaryngology,KEM Hospital,1,Camp,"Tue-Thu 11-3, Sat 5-7",9932456710
+Dr. Chetan Joshi,MMC/2017/76431,"MBBS, MD",Psychiatry,Joshi Clinic,0,Camp,"Mon-Fri 9-12, 5-8",9821345789
+Dr. Divya Mehta,MMC/2019/70125,"MBBS, DM",Dentistry,Smile Dental Care,1,Camp,"Mon-Sat 10-2, 4-7",9890654321
+Dr. Pankaj Ghosh,MMC/2018/72013,"MBBS, MS",General Medicine,Ruby Hall Clinic,0,Camp,"Mon-Fri 10-1, 6-8",9789012349
+Dr. Anusha Kulkarni,MMC/2020/78232,"MBBS, MD",Endocrinology,Sahyadri Hospital,1,Camp,Tue-Sat 11-2,9954321098
+Dr. Rohit Iyer,MMC/2019/73459,"MBBS, DM",Gynecology,Sahyadri Hospital,0,Rasta Peth,"Mon-Fri 10-1, 5-8",9987612301
+Dr. Sneha Rane,MMC/2017/70123,"MBBS, MS",Orthopedics,Ruby Hall Clinic,1,Rasta Peth,"Tue-Sat 9-12, 6-9",9765432012
+Dr. Amol Jadhav,MMC/2018/76450,"MBBS, MD",Pediatrics,Joshi Children’s Clinic,0,Rasta Peth,"Mon-Wed 11-2, Fri 5-8",9876512340
+Dr. Shalini Varma,MMC/2016/73245,"MBBS, DNB",Cardiology,Dinanath Mangeshkar Hospital,1,Rasta Peth,Mon-Fri 10-2,9812365470
+Dr. Nitin Gaikwad,MMC/2020/78961,"MBBS, MS",Pathology,Deenanath Lab,0,Rasta Peth,Mon-Sat 9-1,9821345097
+Dr. Aarti Shah,MMC/2018/71390,"MBBS, DM",Pulmonology,KEM Hospital,1,Rasta Peth,"Mon-Fri 11-2, 6-8",9765409871
+Dr. Rajiv Kapoor,MMC/2017/74329,"MBBS, MD",Dermatology,Inlaks Hospital,0,Rasta Peth,Tue-Sat 12-3,9898765430
+Dr. Neelam Pawar,MMC/2019/76541,"MBBS, MS",Urology,Poona Hospital,1,Rasta Peth,"Mon-Fri 10-1, 5-7",9971234568
+Dr. Sandeep Shukla,MMC/2016/72012,"MBBS, DM",Ophthalmology,HV Desai Eye Hospital,0,Rasta Peth,"Mon-Sat 9-12, 4-6",9945123980
+Dr. Shubhra Deshpande,MMC/2018/74560,"MBBS, DNB",Neurology,Sahyadri Hospital,1,Rasta Peth,Mon-Fri 10-2,9834567120
+Dr. Varun Joshi,MMC/2017/70129,"MBBS, MS",Otorhinolaryngology,KEM Hospital,0,Rasta Peth,"Tue-Thu 11-3, Sat 5-7",9912345890
+Dr. Poonam Shetty,MMC/2019/72134,"MBBS, MD",Psychiatry,Joshi Clinic,1,Rasta Peth,"Mon-Fri 9-12, 5-8",9875432109
+Dr. Arvind Mehra,MMC/2016/73450,"MBBS, DM",Dentistry,Smile Dental Care,0,Rasta Peth,"Mon-Sat 10-2, 4-7",9823012456
+Dr. Nisha Bansal,MMC/2018/76520,"MBBS, MS",General Medicine,Ruby Hall Clinic,1,Rasta Peth,"Mon-Fri 10-1, 6-8",9965412309
+Dr. Girish Kulkarni,MMC/2017/76459,"MBBS, MD",Endocrinology,Sahyadri Hospital,0,Rasta Peth,Tue-Sat 11-2,9987210349
+Dr. Alka Verma,MMC/2020/78910,"MBBS, MS",Gynecology,Sahyadri Hospital,1,Karve Road,"Mon-Fri 10-1, 5-8",9823154670
+Dr. Rahul Chavan,MMC/2019/76541,"MBBS, DM",Orthopedics,Ruby Hall Clinic,0,Karve Road,"Tue-Sat 9-12, 6-9",9785432101
+Dr. Shweta Kulkarni,MMC/2018/72103,"MBBS, MD",Pediatrics,Joshi Children’s Clinic,1,Karve Road,"Mon-Wed 11-2, Fri 5-8",9765432105
+Dr. Dinesh Gupta,MMC/2017/70128,"MBBS, DNB",Cardiology,Dinanath Mangeshkar Hospital,0,Karve Road,Mon-Fri 10-2,9812765430
+Dr. Meenal Patil,MMC/2016/73109,"MBBS, MS",Pathology,Deenanath Lab,1,Karve Road,Mon-Sat 9-1,9823412765
+Dr. Aditya Joshi,MMC/2018/76492,"MBBS, MD",Pulmonology,KEM Hospital,0,Karve Road,"Mon-Fri 11-2, 6-8",9932109870
+Dr. Karuna Shah,MMC/2019/76502,"MBBS, DNB",Dermatology,Inlaks Hospital,1,Karve Road,Tue-Sat 12-3,9965412780
+Dr. Rajesh Shetty,MMC/2017/74312,"MBBS, MS",Urology,Poona Hospital,0,Karve Road,"Mon-Fri 10-1, 5-7",9876543219
+Dr. Manisha Dixit,MMC/2020/78290,"MBBS, DM",Ophthalmology,HV Desai Eye Hospital,1,Karve Road,"Mon-Sat 9-12, 4-6",9821365410
+Dr. Raghav Iyer,MMC/2016/72019,"MBBS, MD",Neurology,Sahyadri Hospital,0,Karve Road,Mon-Fri 10-2,9765123489
+Dr. Nivedita Shinde,MMC/2018/76531,"MBBS, DNB",Otorhinolaryngology,KEM Hospital,1,Karve Road,"Tue-Thu 11-3, Sat 5-7",9912034567
+Dr. Harish Kapoor,MMC/2019/73412,"MBBS, MS",Psychiatry,Joshi Clinic,0,Karve Road,"Mon-Fri 9-12, 5-8",9875123098
+Dr. Vandita Rao,MMC/2017/75321,"MBBS, DM",Dentistry,Smile Dental Care,1,Karve Road,"Mon-Sat 10-2, 4-7",9789054321
+Dr. Sunil Nair,MMC/2016/73401,"MBBS, MD",General Medicine,Ruby Hall Clinic,0,Karve Road,"Mon-Fri 10-1, 6-8",9821034576
+Dr. Reeta Shukla,MMC/2018/72109,"MBBS, MS",Endocrinology,Sahyadri Hospital,1,Karve Road,Tue-Sat 11-2,9971234598
+Dr. Ramesh Patil,MMC/2017/92311,"MBBS, MD",Neurology,Dinanath Mangeshkar Hospital,0,Deccan,"Mon-Fri 11-2, 6-9",9823465123
+Dr. Kavita Shinde,MMC/2018/91452,"MBBS, MS",Otorhinolaryngology,Ruby Hall Clinic,1,Deccan,"Tue-Sat 9-12, 4-7",9765421378
+Dr. Prakash Bhosale,MMC/2019/93621,"MBBS, BDS",Dentistry,Joshi Dental Care,1,Deccan,"Mon-Fri 10-2, 5-8",9821453678
+Dr. Sneha Kulkarni,MMC/2016/90543,"MBBS, MD",General Medicine,Deccan Multispeciality Hospital,0,Deccan,"Mon-Sat 9-1, 6-9",9812345690
+Dr. Amol Jagtap,MMC/2015/88954,"MBBS, MD",Endocrinology,Deenanath Endocrine Center,1,Deccan,"Tue-Fri 10-1, 5-8",9834567812
+Dr. Aditi Joshi,MMC/2017/90213,"MBBS, MD",Gynecology,Sahyadri Hospital,1,Shivaji Nagar,"Mon-Fri 10-1, 6-9",9825467123
+Dr. Rahul More,MMC/2018/93321,"MBBS, MS",Orthopedics,Sancheti Hospital,0,Shivaji Nagar,"Mon-Sat 9-12, 4-8",9768231450
+Dr. Priya Kamat,MMC/2019/91542,"MBBS, MD",Pediatrics,Shivaji Nagar Child Care,1,Shivaji Nagar,"Mon-Fri 11-2, 5-8",9823417654
+Dr. Suresh Naik,MMC/2016/90453,"MBBS, DM",Cardiology,Joshi Cardiac Center,0,Shivaji Nagar,"Tue-Sat 10-1, 5-7",9834126578
+Dr. Anuja Rane,MMC/2015/89321,"MBBS, MD",Pathology,Shivaji Nagar Diagnostic Lab,1,Shivaji Nagar,Mon-Sat 9-1,9825467831
+Dr. Kiran Sawant,MMC/2017/90123,"MBBS, MD",Pulmonology,Chest Care Clinic,0,Shivaji Nagar,"Mon-Fri 10-2, 5-8",9765432189
+Dr. Vinod Shirole,MMC/2018/92231,"MBBS, MD",Dermatology,Skin & Cosmetology Center,1,Shivaji Nagar,"Mon-Sat 10-1, 6-9",9832546710
+Dr. Smita Wagh,MMC/2019/91677,"MBBS, MS",Urology,Sahyadri Urology Center,1,Shivaji Nagar,"Tue-Sat 9-12, 5-7",9812345678
+Dr. Rajesh Kadam,MMC/2016/90821,"MBBS, MS",Ophthalmology,Kadam Eye Care,0,Shivaji Nagar,"Mon-Fri 11-3, 6-9",9821346578
+Dr. Neha Patankar,MMC/2015/89234,"MBBS, MD",Neurology,Shivaji Nagar Neuro Clinic,1,Shivaji Nagar,"Mon-Sat 10-2, 5-8",9845632109
+Dr. Ganesh Chavan,MMC/2017/90254,"MBBS, MS",Otorhinolaryngology,ENT Super Speciality Clinic,0,Shivaji Nagar,"Mon-Fri 9-12, 4-7",9876543210
+Dr. Vaishali Kulkarni,MMC/2018/93345,"MBBS, MD",Psychiatry,Mind Wellness Clinic,1,Shivaji Nagar,"Mon-Sat 10-1, 5-8",9834567123
+Dr. Ajay Deshpande,MMC/2019/91873,"MBBS, BDS",Dentistry,Smile Dental Studio,1,Shivaji Nagar,"Mon-Fri 9-1, 4-8",9821436785
+Dr. Shweta Ranade,MMC/2016/90765,"MBBS, MD",General Medicine,Shivaji Nagar Multispeciality,0,Shivaji Nagar,"Tue-Sat 10-2, 5-9",9823647510
+Dr. Nitin Gaikwad,MMC/2015/89452,"MBBS, MD",Endocrinology,Joshi Endocrine Center,1,Shivaji Nagar,"Mon-Fri 11-2, 6-8",9821347650
+Dr. Alka Joshi,MMC/2017/92031,"MBBS, MD",Gynecology,Erandwane Women's Clinic,1,Erandwane,"Mon-Fri 10-1, 5-8",9823412765
+Dr. Sandeep More,MMC/2018/93123,"MBBS, MS",Orthopedics,Deenanath Mangeshkar Hospital,0,Erandwane,"Tue-Sat 9-12, 4-7",9832456712
+Dr. Pooja Gokhale,MMC/2019/91564,"MBBS, MD",Pediatrics,Erandwane Child Care,1,Erandwane,"Mon-Fri 11-2, 6-9",9812765432
+Dr. Ajinkya Naik,MMC/2016/90783,"MBBS, DM",Cardiology,Ruby Heart Care,1,Erandwane,"Mon-Sat 10-1, 5-8",9821347651
+Dr. Swati Jadhav,MMC/2015/89245,"MBBS, MD",Pathology,Erandwane Diagnostic Center,0,Erandwane,Mon-Fri 9-1,9834765120
+Dr. Hemant Shinde,MMC/2017/90342,"MBBS, MD",Pulmonology,Chest Speciality Clinic,1,Erandwane,"Mon-Sat 10-2, 5-8",9845216730
+Dr. Pallavi Kadam,MMC/2018/92111,"MBBS, MD",Dermatology,Skin Glow Clinic,0,Erandwane,"Tue-Sat 11-2, 6-9",9823567140
+Dr. Umesh Patankar,MMC/2019/93612,"MBBS, MS",Urology,Sahyadri Hospital Urology Wing,1,Erandwane,"Mon-Fri 9-12, 5-7",9831456721
+Dr. Anjali Salunkhe,MMC/2016/90512,"MBBS, MS",Ophthalmology,Vision Eye Care,0,Erandwane,"Mon-Fri 10-3, 6-9",9812345670
+Dr. Raghav Kulkarni,MMC/2015/89102,"MBBS, MD",Neurology,Brain Health Clinic,1,Erandwane,"Mon-Sat 10-1, 5-8",9821354760
+Dr. Meenal Wagle,MMC/2017/90241,"MBBS, MS",Otorhinolaryngology,ENT Advanced Center,1,Erandwane,"Mon-Fri 9-12, 4-7",9834765210
+Dr. Sanjay Rane,MMC/2018/93217,"MBBS, MD",Psychiatry,Mind Care Clinic,0,Erandwane,"Tue-Sat 10-1, 6-8",9845123671
+Dr. Shraddha Apte,MMC/2019/91921,"MBBS, BDS",Dentistry,Smile Dental Studio,1,Erandwane,"Mon-Sat 9-1, 4-8",9821346512
+Dr. Kalyan Deshmukh,MMC/2016/90945,"MBBS, MD",General Medicine,Erandwane Multispeciality,0,Erandwane,"Mon-Fri 10-2, 5-9",9812763540
+Dr. Leena Joshi,MMC/2015/89365,"MBBS, MD",Endocrinology,Joshi Endocrine Center,1,Erandwane,"Mon-Sat 11-2, 6-8",9834216578
+Dr. Nisha Bapat,MMC/2017/92154,"MBBS, MD",Gynecology,Camp Maternity Clinic,1,Camp,"Mon-Fri 10-1, 6-8",9823412650
+Dr. Yogesh Patil,MMC/2018/93542,"MBBS, MS",Orthopedics,Camp Orthopedic Hospital,0,Camp,"Mon-Sat 9-12, 4-8",9821765432
+Dr. Rutuja Desai,MMC/2019/91745,"MBBS, MD",Pediatrics,Little Stars Child Care,1,Camp,"Mon-Fri 11-2, 5-8",9812354761
+Dr. Kiran Jagtap,MMC/2016/90453,"MBBS, DM",Cardiology,Camp Heart Institute,0,Camp,"Mon-Sat 10-1, 6-8",9832145672
+Dr. Smita Kale,MMC/2015/89024,"MBBS, MD",Pathology,Camp Diagnostic Center,1,Camp,Tue-Sat 9-1,9821346571
+Dr. Ajay Phadke,MMC/2017/90245,"MBBS, MD",Pulmonology,Chest Wellness Clinic,0,Camp,"Mon-Sat 10-2, 5-8",9834216579
+Dr. Vaishali Shirodkar,MMC/2018/93219,"MBBS, MD",Dermatology,Skin Renewal Clinic,1,Camp,"Mon-Fri 11-2, 6-9",9812456720
+Dr. Sameer Kadam,MMC/2019/91621,"MBBS, MS",Urology,Urology Care Clinic,0,Camp,"Tue-Sat 9-12, 5-7",9823456170
+Dr. Anuja Ghorpade,MMC/2016/90743,"MBBS, MS",Ophthalmology,Vision Plus Eye Hospital,1,Camp,"Mon-Fri 10-3, 6-9",9832765412
+Dr. Pramod Shewale,MMC/2015/89410,"MBBS, MD",Neurology,Neuro Wellness Clinic,0,Camp,"Mon-Sat 11-2, 5-8",9821654321
+Dr. Rina Datar,MMC/2017/90127,"MBBS, MS",Otorhinolaryngology,ENT Specialty Care,1,Camp,"Mon-Fri 9-12, 4-7",9812765430
+Dr. Shashank Bhosale,MMC/2018/93310,"MBBS, MD",Psychiatry,Mind Care Hospital,0,Camp,"Mon-Sat 10-1, 6-8",9821346520
+Dr. Amruta Khedkar,MMC/2019/91842,"MBBS, BDS",Dentistry,Camp Dental Studio,1,Camp,"Mon-Fri 9-1, 4-8",9834561720
+Dr. Vishal Gaikwad,MMC/2016/90673,"MBBS, MD",General Medicine,Camp Multispeciality,0,Camp,"Tue-Sat 10-2, 5-9",9821354670
+Dr. Aparna Karmarkar,MMC/2015/89514,"MBBS, MD",Endocrinology,Camp Endocrine Clinic,1,Camp,"Mon-Sat 11-2, 6-8",9812546732
+Dr. Sneha Patil,MMC/2020/31245,"MBBS, MD",Gynecology,Inlaks & Budhrani Hospital,1,Rasta Peth,"Mon-Fri 10-1, 5-8",9821345671
+Dr. Nikhil Jadhav,MMC/2019/67821,"MBBS, MS",Orthopedics,Sahyadri Hospital,0,Rasta Peth,"Tue-Sat 9-12, 6-9",9765432180
+Dr. Kavita Shah,MMC/2021/45322,"MBBS, DNB",Pediatrics,Ruby Hall Clinic,1,Rasta Peth,"Mon-Wed 11-2, Fri 5-8",9876501234
+Dr. Manish Mehta,MMC/2020/52987,"MBBS, DM",Cardiology,Noble Hospital,0,Rasta Peth,"Mon-Fri 10-1, 5-7",9812365470
+Dr. Anuradha Kulkarni,MMC/2018/76421,"MBBS, MD",Pathology,Deenanath Mangeshkar Hospital,1,Rasta Peth,Mon-Sat 9-1,9832146578
+Dr. Ajay Nair,MMC/2019/39876,"MBBS, MD",Pulmonology,Poona Hospital & Research Centre,0,Rasta Peth,Mon-Fri 5-8,9867543102
+Dr. Ritu Shinde,MMC/2022/84321,"MBBS, MD",Dermatology,Jehangir Hospital,1,Rasta Peth,"Tue-Fri 10-1, 6-9",9887654321
+Dr. Suresh Bhat,MMC/2020/78532,"MBBS, MS",Urology,Joshi Hospital,0,Rasta Peth,Mon-Sat 11-2,9845612378
+Dr. Pallavi Deshpande,MMC/2019/61234,"MBBS, MD",Ophthalmology,H.V. Desai Eye Hospital,1,Rasta Peth,"Mon-Fri 10-1, 5-8",9823456710
+Dr. Ashok Rane,MMC/2018/95432,"MBBS, DM",Neurology,Sahyadri Hospital,0,Rasta Peth,Tue-Sat 10-1,9890123456
+Dr. Vandana Iyer,MMC/2021/87453,"MBBS, MS",Otorhinolaryngology,Deenanath Mangeshkar Hospital,1,Rasta Peth,Mon-Fri 6-9,9812354789
+Dr. Rohit Kamat,MMC/2020/28531,"MBBS, MD",Psychiatry,Noble Hospital,0,Rasta Peth,Mon-Thu 10-1,9823012345
+Dr. Priyanka Joshi,MMC/2019/92341,"MBBS, BDS",Dentistry,Smile Dental Clinic,1,Rasta Peth,"Mon-Sat 10-2, 5-8",9765412309
+Dr. Deepak More,MMC/2022/76234,"MBBS, MD",General Medicine,Poona Hospital & Research Centre,0,Rasta Peth,"Mon-Fri 9-12, 5-7",9876021345
+Dr. Neha Chitale,MMC/2020/89231,"MBBS, DM",Endocrinology,Sahyadri Hospital,1,Rasta Peth,Tue-Sat 10-1,9890675432
+Dr. Aparna Gaikwad,MMC/2021/43562,"MBBS, MD",Gynecology,Sahyadri Hospital,1,Karve Road,"Mon-Fri 10-1, 5-8",9821345670
+Dr. Vishal Pawar,MMC/2019/78563,"MBBS, MS",Orthopedics,Deenanath Mangeshkar Hospital,0,Karve Road,"Tue-Sat 9-12, 6-9",9765342180
+Dr. Meenal Joshi,MMC/2022/43671,"MBBS, DNB",Pediatrics,Ruby Hall Clinic,1,Karve Road,"Mon-Wed 11-2, Fri 5-8",9876504321
+Dr. Arvind Nene,MMC/2020/65439,"MBBS, DM",Cardiology,Noble Hospital,0,Karve Road,"Mon-Fri 10-1, 5-7",9812765430
+Dr. Swati Apte,MMC/2018/74835,"MBBS, MD",Pathology,Sahyadri Hospital,1,Karve Road,Mon-Sat 9-1,9832156789
+Dr. Sameer Kulkarni,MMC/2019/49283,"MBBS, MD",Pulmonology,Poona Hospital & Research Centre,0,Karve Road,Mon-Fri 5-8,9867543012
+Dr. Anjali Sawant,MMC/2022/91324,"MBBS, MD",Dermatology,Jehangir Hospital,1,Karve Road,"Tue-Fri 10-1, 6-9",9887612345
+Dr. Kiran Naik,MMC/2020/65239,"MBBS, MS",Urology,Joshi Hospital,0,Karve Road,Mon-Sat 11-2,9845612389
+Dr. Pradeep Sane,MMC/2019/54123,"MBBS, MD",Ophthalmology,H.V. Desai Eye Hospital,1,Karve Road,"Mon-Fri 10-1, 5-8",9823412765
+Dr. Ramesh Gokhale,MMC/2018/98234,"MBBS, DM",Neurology,Sahyadri Hospital,0,Karve Road,Tue-Sat 10-1,9890123765
+Dr. Archana More,MMC/2021/78453,"MBBS, MS",Otorhinolaryngology,Deenanath Mangeshkar Hospital,1,Karve Road,Mon-Fri 6-9,9812354987
+Dr. Ashwini Patankar,MMC/2020/29531,"MBBS, MD",Psychiatry,Noble Hospital,0,Karve Road,Mon-Thu 10-1,9823012789
+Dr. Nilesh Jagtap,MMC/2019/96741,"MBBS, BDS",Dentistry,Smile Dental Clinic,1,Karve Road,"Mon-Sat 10-2, 5-8",9765412987
+Dr. Pooja Desai,MMC/2022/83214,"MBBS, MD",General Medicine,Poona Hospital & Research Centre,0,Karve Road,"Mon-Fri 9-12, 5-7",9876021765
+Dr. Milind Phadke,MMC/2020/97643,"MBBS, DM",Endocrinology,Sahyadri Hospital,1,Karve Road,Tue-Sat 10-1,9890675876
+Dr. Ramesh Kulkarni,MMC/2013/61234,"MBBS, MD",Gynecology,MediCare Clinic,1,Aundh,"Mon-Sat 10-1, 6-9",9823123450
+Dr. Smita Patwardhan,MMC/2014/62345,"MBBS, MS",Orthopedics,Aundh Hospital,1,Aundh,"Mon-Fri 9-12, 5-8",9823123451
+Dr. Kunal Gokhale,MMC/2012/63456,"MBBS, MD",Pediatrics,Star Child Clinic,0,Aundh,"Tue-Sun 11-2, 6-9",9823123452
+Dr. Anuja Phadke,MMC/2016/64567,"MBBS, DM",Cardiology,Heartbeat Hospital,1,Aundh,Mon-Sat 10-2,9823123453
+Dr. Harshal Ranade,MMC/2015/65678,"MBBS, MD",Pathology,Pathcare Labs,0,Aundh,Mon-Sat 8-6,9823123454
+Dr. Meenal Inamdar,MMC/2017/66789,"MBBS, MD",Pulmonology,Lifebreath Clinic,1,Aundh,"Mon-Fri 9-1, 5-7",9823123455
+Dr. Chetan Vaidya,MMC/2018/67890,"MBBS, MD",Dermatology,Skin Solutions,0,Aundh,"Mon-Sat 10-2, 4-8",9823123456
+Dr. Shalini Patil,MMC/2019/68901,"MBBS, MS",Urology,Aundh UroCare,1,Aundh,Mon-Fri 11-3,9823123457
+Dr. Amol Joshi,MMC/2020/69012,"MBBS, MS",Ophthalmology,Vision Plus Eye Care,0,Aundh,"Mon-Sat 9-1, 5-8",9823123458
+Dr. Nisha Bapat,MMC/2011/60123,"MBBS, DM",Neurology,BrainCare Clinic,1,Aundh,Mon-Fri 10-2,9823123459
+Dr. Sanjay Jagtap,MMC/2010/59123,"MBBS, MS",Otorhinolaryngology,ENT Hub,1,Aundh,"Mon-Sat 9-12, 5-8",9823123460
+Dr. Priya Godbole,MMC/2013/61345,"MBBS, MD",Psychiatry,MindCare Centre,0,Aundh,Mon-Sat 11-3,9823123461
+Dr. Rohan Salvi,MMC/2015/63567,"BDS, MDS",Dentistry,Smile Dental Care,1,Aundh,Mon-Sat 10-6,9823123462
+Dr. Sneha Deshpande,MMC/2016/64678,"MBBS, MD",General Medicine,Health First Clinic,0,Aundh,"Mon-Fri 9-1, 6-9",9823123463
+Dr. Vikram Datar,MMC/2017/65789,"MBBS, DM",Endocrinology,Hormone Care,1,Aundh,Mon-Sat 10-2,9823123464
+Dr. Neha Shinde,MMC/2012/61235,"MBBS, MD",Gynecology,Hadapsar Mother Care,1,Hadapsar,"Mon-Sat 10-1, 6-9",9823223450
+Dr. Ajay Patil,MMC/2014/62346,"MBBS, MS",Orthopedics,Hadapsar Ortho Clinic,0,Hadapsar,"Mon-Fri 9-12, 5-8",9823223451
+Dr. Komal Sane,MMC/2015/63457,"MBBS, MD",Pediatrics,Kids Health,1,Hadapsar,"Tue-Sun 11-2, 6-9",9823223452
+Dr. Mahesh Chitale,MMC/2013/64568,"MBBS, DM",Cardiology,Heart Plus Clinic,0,Hadapsar,Mon-Sat 10-2,9823223453
+Dr. Nitin Gaikwad,MMC/2011/65679,"MBBS, MD",Pathology,Prime Labs,1,Hadapsar,Mon-Sat 8-6,9823223454
+Dr. Pooja More,MMC/2019/66780,"MBBS, MD",Pulmonology,Lung Life Care,0,Hadapsar,"Mon-Fri 9-1, 5-7",9823223455
+Dr. Ritesh Karve,MMC/2017/67891,"MBBS, MD",Dermatology,Clear Skin,1,Hadapsar,"Mon-Sat 10-2, 4-8",9823223456
+Dr. Ashwini Desai,MMC/2018/68902,"MBBS, MS",Urology,UroLife Clinic,0,Hadapsar,Mon-Fri 11-3,9823223457
+Dr. Harish Dumbre,MMC/2020/69013,"MBBS, MS",Ophthalmology,Vision Care Centre,1,Hadapsar,"Mon-Sat 9-1, 5-8",9823223458
+Dr. Snehal Nene,MMC/2016/60124,"MBBS, DM",Neurology,Neuro Plus,0,Hadapsar,Mon-Fri 10-2,9823223459
+Dr. Rahul Sabnis,MMC/2010/59124,"MBBS, MS",Otorhinolaryngology,ENT Cure Clinic,1,Hadapsar,"Mon-Sat 9-12, 5-8",9823223460
+Dr. Vaishali Naik,MMC/2012/61346,"MBBS, MD",Psychiatry,Mind Heal Centre,0,Hadapsar,Mon-Sat 11-3,9823223461
+Dr. Tejas Bhosle,MMC/2014/63568,"BDS, MDS",Dentistry,Smile Zone,1,Hadapsar,Mon-Sat 10-6,9823223462
+Dr. Ketaki Apte,MMC/2015/64679,"MBBS, MD",General Medicine,Care Clinic,0,Hadapsar,"Mon-Fri 9-1, 6-9",9823223463
+Dr. Sagar Phanse,MMC/2018/65790,"MBBS, DM",Endocrinology,EndoCare,1,Hadapsar,Mon-Sat 10-2,9823223464
+Dr. Manisha Deo,MMC/2012/71234,"MBBS, MD",Gynecology,Kothrud Mother & Child Care,1,Kothrud,"Mon-Sat 10-1, 6-9",9833123450
+Dr. Nikhil Jadhav,MMC/2014/72345,"MBBS, MS",Orthopedics,OrthoLife Clinic,0,Kothrud,"Mon-Fri 9-12, 5-8",9833123451
+Dr. Ashwini Phatak,MMC/2016/73456,"MBBS, MD",Pediatrics,Kothrud Kids Care,1,Kothrud,"Tue-Sun 11-2, 6-9",9833123452
+Dr. Prasad Ranpise,MMC/2018/74567,"MBBS, DM",Cardiology,HeartWell Hospital,0,Kothrud,Mon-Sat 10-2,9833123453
+Dr. Radhika Gokhale,MMC/2015/75678,"MBBS, MD",Pathology,Lab Plus Diagnostics,1,Kothrud,Mon-Sat 8-6,9833123454
+Dr. Shreyas Bapat,MMC/2017/76789,"MBBS, MD",Pulmonology,BreathEasy Clinic,0,Kothrud,"Mon-Fri 9-1, 5-7",9833123455
+Dr. Pallavi Ingle,MMC/2019/77890,"MBBS, MD",Dermatology,SkinGlow Clinic,1,Kothrud,"Mon-Sat 10-2, 4-8",9833123456
+Dr. Sandeep More,MMC/2020/78901,"MBBS, MS",Urology,UroHealth Clinic,0,Kothrud,Mon-Fri 11-3,9833123457
+Dr. Vaibhavi Patil,MMC/2013/70123,"MBBS, MS",Ophthalmology,Vision Eye Care,1,Kothrud,"Mon-Sat 9-1, 5-8",9833123458
+Dr. Anant Kulkarni,MMC/2011/69123,"MBBS, DM",Neurology,NeuroLife Hospital,0,Kothrud,Mon-Fri 10-2,9833123459
+Dr. Rupali Desai,MMC/2010/68123,"MBBS, MS",Otorhinolaryngology,ENT Point,1,Kothrud,"Mon-Sat 9-12, 5-8",9833123460
+Dr. Sharad Choudhary,MMC/2013/71345,"MBBS, MD",Psychiatry,Mind Wellness Centre,0,Kothrud,Mon-Sat 11-3,9833123461
+Dr. Neelam Karandikar,MMC/2016/73567,"BDS, MDS",Dentistry,SmileCare Dental,1,Kothrud,Mon-Sat 10-6,9833123462
+Dr. Swapnil Datar,MMC/2017/74678,"MBBS, MD",General Medicine,HealthCare Clinic,0,Kothrud,"Mon-Fri 9-1, 6-9",9833123463
+Dr. Kiran Apte,MMC/2019/75789,"MBBS, DM",Endocrinology,EndoPlus Clinic,1,Kothrud,Mon-Sat 10-2,9833123464
+Dr. Alka Joshi,MMC/2012/81234,"MBBS, MD",Gynecology,Kalyani Nagar Women’s Health,1,Kalyani Nagar,"Mon-Sat 10-1, 6-9",9844123450
+Dr. Rohit Bansode,MMC/2014/82345,"MBBS, MS",Orthopedics,OrthoPlus Clinic,0,Kalyani Nagar,"Mon-Fri 9-12, 5-8",9844123451
+Dr. Vandana Chitre,MMC/2016/83456,"MBBS, MD",Pediatrics,Child First Clinic,1,Kalyani Nagar,"Tue-Sun 11-2, 6-9",9844123452
+Dr. Amey Natu,MMC/2018/84567,"MBBS, DM",Cardiology,HeartCare Centre,0,Kalyani Nagar,Mon-Sat 10-2,9844123453
+Dr. Reema Pathak,MMC/2015/85678,"MBBS, MD",Pathology,PathLabs Diagnostics,1,Kalyani Nagar,Mon-Sat 8-6,9844123454
+Dr. Nilesh Bhope,MMC/2017/86789,"MBBS, MD",Pulmonology,LungCare Centre,0,Kalyani Nagar,"Mon-Fri 9-1, 5-7",9844123455
+Dr. Priyanka Joglekar,MMC/2019/87890,"MBBS, MD",Dermatology,DermaLife Clinic,1,Kalyani Nagar,"Mon-Sat 10-2, 4-8",9844123456
+Dr. Saurabh Khare,MMC/2020/88901,"MBBS, MS",Urology,UroPlus Clinic,0,Kalyani Nagar,Mon-Fri 11-3,9844123457
+Dr. Anjali Naidu,MMC/2013/80123,"MBBS, MS",Ophthalmology,ClearView Eye Care,1,Kalyani Nagar,"Mon-Sat 9-1, 5-8",9844123458
+Dr. Devendra Patankar,MMC/2011/79123,"MBBS, DM",Neurology,NeuroWell Hospital,0,Kalyani Nagar,Mon-Fri 10-2,9844123459
+Dr. Shubhangi Sawant,MMC/2010/78123,"MBBS, MS",Otorhinolaryngology,ENT Plus,1,Kalyani Nagar,"Mon-Sat 9-12, 5-8",9844123460
+Dr. Sameer Dalvi,MMC/2013/81345,"MBBS, MD",Psychiatry,WellMind Clinic,0,Kalyani Nagar,Mon-Sat 11-3,9844123461
+Dr. Rucha Rane,MMC/2016/83567,"BDS, MDS",Dentistry,Dental Zone,1,Kalyani Nagar,Mon-Sat 10-6,9844123462
+Dr. Hrishikesh Dandekar,MMC/2017/84678,"MBBS, MD",General Medicine,LifeCare Clinic,0,Kalyani Nagar,"Mon-Fri 9-1, 6-9",9844123463
+Dr. Sonali Wagh,MMC/2019/85789,"MBBS, DM",Endocrinology,Endocrine Health,1,Kalyani Nagar,Mon-Sat 10-2,9844123464
+Dr. Sneha Kulkarni,MMC/2012/91234,"MBBS, MD",Gynecology,Fatima Nagar Women’s Clinic,1,Fatima Nagar,"Mon-Sat 10-1, 6-9",9865123450
+Dr. Mahesh Gaikwad,MMC/2014/92345,"MBBS, MS",Orthopedics,Bone & Joint Care,0,Fatima Nagar,"Mon-Fri 9-12, 5-8",9865123451
+Dr. Vaishali Bhosle,MMC/2016/93456,"MBBS, MD",Pediatrics,Little Stars Children’s Clinic,1,Fatima Nagar,"Tue-Sun 11-2, 6-9",9865123452
+Dr. Sandeep Kharat,MMC/2018/94567,"MBBS, DM",Cardiology,HeartCare Clinic,0,Fatima Nagar,Mon-Sat 10-2,9865123453
+Dr. Deepa Shinde,MMC/2015/95678,"MBBS, MD",Pathology,Accurate Diagnostics,1,Fatima Nagar,Mon-Sat 8-6,9865123454
+Dr. Amit Bhagat,MMC/2017/96789,"MBBS, MD",Pulmonology,LungWell Clinic,0,Fatima Nagar,"Mon-Fri 9-1, 5-7",9865123455
+Dr. Prerna Salunkhe,MMC/2019/97890,"MBBS, MD",Dermatology,SkinCare Plus,1,Fatima Nagar,"Mon-Sat 10-2, 4-8",9865123456
+Dr. Rajesh Thorat,MMC/2020/98901,"MBBS, MS",Urology,UroLife Clinic,0,Fatima Nagar,Mon-Fri 11-3,9865123457
+Dr. Pooja Patwardhan,MMC/2013/90123,"MBBS, MS",Ophthalmology,Vision First Eye Care,1,Fatima Nagar,"Mon-Sat 9-1, 5-8",9865123458
+Dr. Aditya Karve,MMC/2011/89123,"MBBS, DM",Neurology,BrainCare Hospital,0,Fatima Nagar,Mon-Fri 10-2,9865123459
+Dr. Smita Inamdar,MMC/2010/88123,"MBBS, MS",Otorhinolaryngology,ENT Health Clinic,1,Fatima Nagar,"Mon-Sat 9-12, 5-8",9865123460
+Dr. Ramesh Pawar,MMC/2013/91345,"MBBS, MD",Psychiatry,MindWell Clinic,0,Fatima Nagar,Mon-Sat 11-3,9865123461
+Dr. Kavita Godbole,MMC/2016/93567,"BDS, MDS",Dentistry,Smile Dental Care,1,Fatima Nagar,Mon-Sat 10-6,9865123462
+Dr. Shirish Deshpande,MMC/2017/94678,"MBBS, MD",General Medicine,Family Health Clinic,0,Fatima Nagar,"Mon-Fri 9-1, 6-9",9865123463
+Dr. Amruta Londhe,MMC/2019/95789,"MBBS, DM",Endocrinology,EndoLife Clinic,1,Fatima Nagar,Mon-Sat 10-2,9865123464
+Dr. Aruna Ranade,MMC/2012/81235,"MBBS, MD",Gynecology,Sadashiv Peth Women’s Health,1,Sadashiv Peth,"Mon-Sat 10-1, 6-9",9876123450
+Dr. Ketan Jere,MMC/2014/82346,"MBBS, MS",Orthopedics,BoneCare Clinic,0,Sadashiv Peth,"Mon-Fri 9-12, 5-8",9876123451
+Dr. Rutuja Phadke,MMC/2016/83457,"MBBS, MD",Pediatrics,Healthy Kids Clinic,1,Sadashiv Peth,"Tue-Sun 11-2, 6-9",9876123452
+Dr. Rohan Pansare,MMC/2018/84568,"MBBS, DM",Cardiology,Heart Plus Hospital,0,Sadashiv Peth,Mon-Sat 10-2,9876123453
+Dr. Nandita Vaze,MMC/2015/85679,"MBBS, MD",Pathology,LabCare Diagnostics,1,Sadashiv Peth,Mon-Sat 8-6,9876123454
+Dr. Yogesh Rathi,MMC/2017/86780,"MBBS, MD",Pulmonology,Respira Clinic,0,Sadashiv Peth,"Mon-Fri 9-1, 5-7",9876123455
+Dr. Tanvi Paranjape,MMC/2019/87891,"MBBS, MD",Dermatology,SkinLife Clinic,1,Sadashiv Peth,"Mon-Sat 10-2, 4-8",9876123456
+Dr. Chetan Pol,MMC/2020/88902,"MBBS, MS",Urology,UroPlus Health,0,Sadashiv Peth,Mon-Fri 11-3,9876123457
+Dr. Megha Sathe,MMC/2013/80124,"MBBS, MS",Ophthalmology,EyeVision Care,1,Sadashiv Peth,"Mon-Sat 9-1, 5-8",9876123458
+Dr. Saurabh Khadilkar,MMC/2011/79124,"MBBS, DM",Neurology,NeuroLife Plus,0,Sadashiv Peth,Mon-Fri 10-2,9876123459
+Dr. Vaidehi Apte,MMC/2010/78124,"MBBS, MS",Otorhinolaryngology,Ear Nose Throat Clinic,1,Sadashiv Peth,"Mon-Sat 9-12, 5-8",9876123460
+Dr. Milind Patil,MMC/2013/81346,"MBBS, MD",Psychiatry,Mind Health Centre,0,Sadashiv Peth,Mon-Sat 11-3,9876123461
+Dr. Shilpa Rane,MMC/2016/83568,"BDS, MDS",Dentistry,DentCare Clinic,1,Sadashiv Peth,Mon-Sat 10-6,9876123462
+Dr. Nikhil Wadekar,MMC/2017/84679,"MBBS, MD",General Medicine,City Health Clinic,0,Sadashiv Peth,"Mon-Fri 9-1, 6-9",9876123463
+Dr. Kranti Deshmukh,MMC/2019/85790,"MBBS, DM",Endocrinology,Endocrine Care,1,Sadashiv Peth,Mon-Sat 10-2,9876123464
+Dr. Manisha Jagtap,MMC/2012/96211,"MBBS, MD",Gynecology,Chinchwad Women’s Clinic,1,Chinchwad,"Mon-Sat 10-1, 6-9",9854123400
+Dr. Pravin Khedkar,MMC/2014/97322,"MBBS, MS",Orthopedics,Bone & Spine Care,0,Chinchwad,"Mon-Fri 9-12, 5-8",9854123401
+Dr. Rutuja Bhandari,MMC/2016/98433,"MBBS, MD",Pediatrics,Happy Kids Clinic,1,Chinchwad,"Tue-Sun 11-2, 6-9",9854123402
+Dr. Nilesh More,MMC/2018/99544,"MBBS, DM",Cardiology,HeartCare Hospital,0,Chinchwad,Mon-Sat 10-2,9854123403
+Dr. Smita Naik,MMC/2015/90655,"MBBS, MD",Pathology,Life Diagnostics,1,Chinchwad,Mon-Sat 8-6,9854123404
+Dr. Ajay Sawant,MMC/2017/91766,"MBBS, MD",Pulmonology,Respira Care,0,Chinchwad,"Mon-Fri 9-1, 5-7",9854123405
+Dr. Kavita Thombre,MMC/2019/92877,"MBBS, MD",Dermatology,SkinCare Clinic,1,Chinchwad,"Mon-Sat 10-2, 4-8",9854123406
+Dr. Sagar Dandekar,MMC/2020/93988,"MBBS, MS",Urology,UroLife Centre,0,Chinchwad,Mon-Fri 11-3,9854123407
+Dr. Aishwarya Kulkarni,MMC/2013/95099,"MBBS, MS",Ophthalmology,Vision Plus Clinic,1,Chinchwad,"Mon-Sat 9-1, 5-8",9854123408
+Dr. Shrikant Landge,MMC/2011/96100,"MBBS, DM",Neurology,BrainCare Neuro Clinic,0,Chinchwad,Mon-Fri 10-2,9854123409
+Dr. Sheetal Jadhav,MMC/2010/97211,"MBBS, MS",Otorhinolaryngology,ENT Cure Clinic,1,Chinchwad,"Mon-Sat 9-12, 5-8",9854123410
+Dr. Anup Patil,MMC/2013/98322,"MBBS, MD",Psychiatry,MindWell Health,0,Chinchwad,Mon-Sat 11-3,9854123411
+Dr. Snehal Godse,MMC/2016/99433,"BDS, MDS",Dentistry,Smile Dental Care,1,Chinchwad,Mon-Sat 10-6,9854123412
+Dr. Ashish Kshirsagar,MMC/2017/90544,"MBBS, MD",General Medicine,Family Health Plus,0,Chinchwad,"Mon-Fri 9-1, 6-9",9854123413
+Dr. Rupali Deshmane,MMC/2019/91655,"MBBS, DM",Endocrinology,EndoCare Clinic,1,Chinchwad,Mon-Sat 10-2,9854123414
+Dr. Nayana Shitole,MMC/2012/92616,"MBBS, MD",Gynecology,Pimpri Women’s Health,1,Pimpri,"Mon-Sat 10-1, 6-9",9845123400
+Dr. Shrikant Phuge,MMC/2014/93727,"MBBS, MS",Orthopedics,Bone & Joint Hospital,0,Pimpri,"Mon-Fri 9-12, 5-8",9845123401
+Dr. Poonam Kumbhar,MMC/2016/94838,"MBBS, MD",Pediatrics,ChildCare Plus Clinic,1,Pimpri,"Tue-Sun 11-2, 6-9",9845123402
+Dr. Ramesh Kakade,MMC/2018/95949,"MBBS, DM",Cardiology,HeartPlus Hospital,0,Pimpri,Mon-Sat 10-2,9845123403
+Dr. Meenal Bhosle,MMC/2015/97050,"MBBS, MD",Pathology,Prime Diagnostics,1,Pimpri,Mon-Sat 8-6,9845123404
+Dr. Kiran Pote,MMC/2017/98161,"MBBS, MD",Pulmonology,Healthy Lungs Clinic,0,Pimpri,"Mon-Fri 9-1, 5-7",9845123405
+Dr. Jyoti Mahajan,MMC/2019/99272,"MBBS, MD",Dermatology,DermaLife Clinic,1,Pimpri,"Mon-Sat 10-2, 4-8",9845123406
+Dr. Swapnil Khule,MMC/2020/90383,"MBBS, MS",Urology,UroCare Plus,0,Pimpri,Mon-Fri 11-3,9845123407
+Dr. Payal Ingle,MMC/2013/91494,"MBBS, MS",Ophthalmology,EyeWell Centre,1,Pimpri,"Mon-Sat 9-1, 5-8",9845123408
+Dr. Abhijeet Mane,MMC/2011/92505,"MBBS, DM",Neurology,NeuroPlus Clinic,0,Pimpri,Mon-Fri 10-2,9845123409
+Dr. Reshma Satpute,MMC/2010/93616,"MBBS, MS",Otorhinolaryngology,ENT Care Clinic,1,Pimpri,"Mon-Sat 9-12, 5-8",9845123410
+Dr. Ganesh Shirole,MMC/2013/94727,"MBBS, MD",Psychiatry,MindCare Health,0,Pimpri,Mon-Sat 11-3,9845123411
+Dr. Nisha Pawar,MMC/2016/95838,"BDS, MDS",Dentistry,Smile Care Dental,1,Pimpri,Mon-Sat 10-6,9845123412
+Dr. Sunil Nikam,MMC/2017/96949,"MBBS, MD",General Medicine,Wellness Clinic,0,Pimpri,"Mon-Fri 9-1, 6-9",9845123413
+Dr. Arpita Gokhale,MMC/2019/97060,"MBBS, DM",Endocrinology,EndoLife Plus,1,Pimpri,Mon-Sat 10-2,9845123414
+Dr. Supriya Joshi,MMC/2012/93121,"MBBS, MD",Gynecology,Station Road Women’s Clinic,1,Station Road,"Mon-Sat 10-1, 6-9",9825123400
+Dr. Vishal Khare,MMC/2014/94232,"MBBS, MS",Orthopedics,Bone & Joint Plus,0,Station Road,"Mon-Fri 9-12, 5-8",9825123401
+Dr. Priyanka Bansal,MMC/2016/95343,"MBBS, MD",Pediatrics,KidCare Clinic,1,Station Road,"Tue-Sun 11-2, 6-9",9825123402
+Dr. Rohit Kumbhar,MMC/2018/96454,"MBBS, DM",Cardiology,HeartLine Hospital,0,Station Road,Mon-Sat 10-2,9825123403
+Dr. Seema Bagal,MMC/2015/97565,"MBBS, MD",Pathology,LabCare Diagnostics,1,Station Road,Mon-Sat 8-6,9825123404
+Dr. Gaurav Jagtap,MMC/2017/98676,"MBBS, MD",Pulmonology,BreathWell Centre,0,Station Road,"Mon-Fri 9-1, 5-7",9825123405
+Dr. Pooja Jadhav,MMC/2019/99787,"MBBS, MD",Dermatology,SkinWell Clinic,1,Station Road,"Mon-Sat 10-2, 4-8",9825123406
+Dr. Mayur Nikam,MMC/2020/90898,"MBBS, MS",Urology,UroLine Clinic,0,Station Road,Mon-Fri 11-3,9825123407
+Dr. Sneha Gaikwad,MMC/2013/91909,"MBBS, MS",Ophthalmology,EyePlus Vision,1,Station Road,"Mon-Sat 9-1, 5-8",9825123408
+Dr. Aniket Thombre,MMC/2011/93010,"MBBS, DM",Neurology,NeuroWell Centre,0,Station Road,Mon-Fri 10-2,9825123409
+Dr. Rina Shinde,MMC/2010/94121,"MBBS, MS",Otorhinolaryngology,ENT Health Clinic,1,Station Road,"Mon-Sat 9-12, 5-8",9825123410
+Dr. Sachin Pawar,MMC/2013/95232,"MBBS, MD",Psychiatry,MindCare Plus,0,Station Road,Mon-Sat 11-3,9825123411
+Dr. Manasi Chavan,MMC/2016/96343,"BDS, MDS",Dentistry,Smile Line Dental,1,Station Road,Mon-Sat 10-6,9825123412
+Dr. Amit Kshirsagar,MMC/2017/97454,"MBBS, MD",General Medicine,HealthFirst Clinic,0,Station Road,"Mon-Fri 9-1, 6-9",9825123413
+Dr. Varsha Gokhale,MMC/2019/98565,"MBBS, DM",Endocrinology,EndoCare Plus,1,Station Road,Mon-Sat 10-2,9825123414
+Dr. Deepali Phadke,MMC/2012/94122,"MBBS, MD",Gynecology,Baner Women’s Health,1,Baner,"Mon-Sat 10-1, 6-9",9835123400
+Dr. Ramesh Jadhav,MMC/2014/95233,"MBBS, MS",Orthopedics,BoneCare Clinic,0,Baner,"Mon-Fri 9-12, 5-8",9835123401
+Dr. Swati Shirole,MMC/2016/96344,"MBBS, MD",Pediatrics,Happy Kids Baner,1,Baner,"Tue-Sun 11-2, 6-9",9835123402
+Dr. Milind Deshmukh,MMC/2018/97455,"MBBS, DM",Cardiology,HeartCare Baner,0,Baner,Mon-Sat 10-2,9835123403
+Dr. Anuja More,MMC/2015/98566,"MBBS, MD",Pathology,LifeLine Diagnostics,1,Baner,Mon-Sat 8-6,9835123404
+Dr. Ketan Kulkarni,MMC/2017/99677,"MBBS, MD",Pulmonology,LungCare Clinic,0,Baner,"Mon-Fri 9-1, 5-7",9835123405
+Dr. Rupali Inamdar,MMC/2019/90788,"MBBS, MD",Dermatology,Skin Life Clinic,1,Baner,"Mon-Sat 10-2, 4-8",9835123406
+Dr. Rahul Patil,MMC/2020/91899,"MBBS, MS",Urology,UroCare Baner,0,Baner,Mon-Fri 11-3,9835123407
+Dr. Neha Pawar,MMC/2013/92910,"MBBS, MS",Ophthalmology,Vision Plus Baner,1,Baner,"Mon-Sat 9-1, 5-8",9835123408
+Dr. Shubham Landge,MMC/2011/94011,"MBBS, DM",Neurology,NeuroLife Clinic,0,Baner,Mon-Fri 10-2,9835123409
+Dr. Smita Gaonkar,MMC/2010/95122,"MBBS, MS",Otorhinolaryngology,Ear & Nose Care,1,Baner,"Mon-Sat 9-12, 5-8",9835123410
+Dr. Vikram Sane,MMC/2013/96233,"MBBS, MD",Psychiatry,MindWell Clinic,0,Baner,Mon-Sat 11-3,9835123411
+Dr. Anjali Bhagat,MMC/2016/97344,"BDS, MDS",Dentistry,Smile Care Baner,1,Baner,Mon-Sat 10-6,9835123412
+Dr. Harshal Mane,MMC/2017/98455,"MBBS, MD",General Medicine,Family Plus Clinic,0,Baner,"Mon-Fri 9-1, 6-9",9835123413
+Dr. Shreya Godbole,MMC/2019/99566,"MBBS, DM",Endocrinology,EndoLife Baner,1,Baner,Mon-Sat 10-2,9835123414
+Dr. Kavita Jadhav,MMC/2019/95011,"MBBS, MD",Gynecology,Katraj Multispeciality Hospital,1,Katraj,"Mon-Fri 10-1, 5-8",9021345678
+Dr. Rohan Kulkarni,MMC/2020/87214,"MBBS, MS",Orthopedics,Katraj Bone & Joint Care,0,Katraj,"Tue-Sat 11-2, 6-9",9132456789
+Dr. Meera Bhosale,MMC/2021/76325,"MBBS, MD",Pediatrics,Children’s Clinic Katraj,1,Katraj,"Mon-Sat 10-2, 5-7",9243567890
+Dr. Amit Deshpande,MMC/2019/68473,"MBBS, DM",Cardiology,Cardio Life Hospital,0,Katraj,"Mon-Fri 9-1, 4-8",9354678901
+Dr. Smita Patil,MMC/2022/79431,"MBBS, MD",Pathology,Katraj Diagnostic Center,1,Katraj,Mon-Sat 10-5,9465789012
+Dr. Nilesh Pawar,MMC/2023/84215,"MBBS, MD",Pulmonology,Katraj Chest Clinic,1,Katraj,"Tue-Sat 11-3, 6-8",9576890123
+Dr. Rekha More,MMC/2020/76358,"MBBS, MD",Dermatology,Katraj Skin & Hair Clinic,0,Katraj,"Mon-Fri 12-3, 5-8",9687901234
+Dr. Sanjay Shinde,MMC/2019/80427,"MBBS, MS",Urology,Katraj Urology Center,1,Katraj,"Mon-Sat 10-1, 6-9",9798012345
+Dr. Pratibha Joshi,MMC/2021/82541,"MBBS, MS",Ophthalmology,Katraj Eye Hospital,1,Katraj,"Tue-Sun 10-2, 4-7",9909123456
+Dr. Ajay Rane,MMC/2024/90234,"MBBS, DM",Neurology,Brain & Spine Care Katraj,0,Katraj,"Mon-Fri 9-12, 5-8",9810234567
+Dr. Snehal Gokhale,MMC/2022/74582,"MBBS, MS",Otorhinolaryngology,Katraj ENT Hospital,1,Katraj,"Tue-Sat 11-2, 6-8",9921345678
+Dr. Manish Chavan,MMC/2020/86341,"MBBS, MD",Psychiatry,Mind Care Clinic Katraj,1,Katraj,"Mon-Fri 10-1, 5-8",9032456789
+Dr. Anuja Gaikwad,MMC/2019/78125,"MBBS, BDS",Dentistry,Katraj Dental Clinic,0,Katraj,"Mon-Sat 10-2, 4-7",9143567890
+Dr. Rahul Inamdar,MMC/2023/89573,"MBBS, MD",General Medicine,Katraj General Hospital,1,Katraj,"Mon-Sun 9-1, 5-9",9254678901
+Dr. Shweta Khedekar,MMC/2025/90312,"MBBS, DM",Endocrinology,Katraj Endocrine Center,1,Katraj,"Mon-Fri 11-3, 6-9",9365789012
+Dr. Sandeep Patankar,MMC/2020/78234,"MBBS, MD",Gynecology,Kondhwa Maternity Home,1,Kondhwa,"Mon-Sat 10-1, 5-7",9476890123
+Dr. Rutuja Sawant,MMC/2022/84129,"MBBS, MS",Orthopedics,Kondhwa Bone Clinic,0,Kondhwa,"Tue-Sat 11-2, 6-9",9587901234
+Dr. Ashish Naik,MMC/2021/73450,"MBBS, MD",Pediatrics,Kondhwa Children’s Hospital,1,Kondhwa,"Mon-Fri 9-12, 5-8",9698012345
+Dr. Neha Phadke,MMC/2019/79321,"MBBS, DM",Cardiology,Heart Care Kondhwa,1,Kondhwa,"Mon-Sat 10-2, 6-9",9809123456
+Dr. Umesh Lad,MMC/2023/81245,"MBBS, MD",Pathology,Kondhwa Labs & Diagnostics,0,Kondhwa,Mon-Fri 9-5,9910234567
+Dr. Priya Thombre,MMC/2020/78359,"MBBS, MD",Pulmonology,Kondhwa Chest & Asthma Center,1,Kondhwa,"Tue-Sat 11-3, 6-8",9021345678
+Dr. Chetan Jangam,MMC/2022/80421,"MBBS, MD",Dermatology,Kondhwa Skin Clinic,1,Kondhwa,"Mon-Sat 10-2, 5-8",9132456789
+Dr. Swati Limaye,MMC/2025/92518,"MBBS, MS",Urology,Kondhwa Urology Care,1,Kondhwa,"Mon-Fri 9-1, 5-8",9243567890
+Dr. Gaurav Apte,MMC/2024/78145,"MBBS, MS",Ophthalmology,Kondhwa Eye Center,0,Kondhwa,"Mon-Sat 10-1, 4-7",9354678901
+Dr. Komal More,MMC/2021/80123,"MBBS, DM",Neurology,Kondhwa Neuro Center,1,Kondhwa,"Tue-Sat 11-2, 5-8",9465789012
+Dr. Vishal Pawar,MMC/2019/79412,"MBBS, MS",Otorhinolaryngology,Kondhwa ENT Clinic,1,Kondhwa,"Mon-Sat 10-12, 6-9",9576890123
+Dr. Manasi Bhagat,MMC/2020/85214,"MBBS, MD",Psychiatry,Kondhwa Mental Wellness,0,Kondhwa,"Mon-Fri 11-2, 5-8",9687901234
+Dr. Nikhil Patil,MMC/2022/86134,"MBBS, BDS",Dentistry,Kondhwa Dental Clinic,1,Kondhwa,"Tue-Sun 10-2, 4-7",9798012345
+Dr. Pallavi Joshi,MMC/2023/87459,"MBBS, MD",General Medicine,Kondhwa General Hospital,1,Kondhwa,"Mon-Sun 9-1, 5-9",9909123456
+Dr. Aditya Karve,MMC/2024/89902,"MBBS, DM",Endocrinology,Kondhwa Endocrine Care,0,Kondhwa,"Mon-Fri 10-2, 6-9",9810234567
+Dr. Anjali Kulkarni,MMC/2017/89231,"MBBS, MD",Gynecology,Ruby Hall Clinic,1,Swargate,"Mon-Fri 10-1, 5-8",9765432101
+Dr. Rohit Deshpande,MMC/2018/75412,"MBBS, MS",Orthopedics,Sahyadri Hospital,1,Swargate,"Mon-Sat 9-12, 6-9",9823456123
+Dr. Priya Jadhav,MMC/2019/67845,"MBBS, MD",Pediatrics,Dinanath Mangeshkar Hospital,0,Swargate,"Tue-Sun 11-2, 5-7",9890345621
+Dr. Vivek Patil,MMC/2016/81234,"MBBS, DM",Cardiology,Jupiter Hospital,1,Swargate,"Mon-Fri 9-1, 6-8",9812233445
+Dr. Sneha Gokhale,MMC/2020/93421,"MBBS, MD",Pathology,Inlaks Hospital,0,Swargate,Mon-Sat 10-2,9845123098
+Dr. Nikhil Bhosale,MMC/2015/78654,"MBBS, MD",Pulmonology,Sancheti Hospital,1,Swargate,"Mon-Fri 10-1, 5-8",9832145690
+Dr. Kavita Joshi,MMC/2017/89542,"MBBS, MD",Dermatology,Joshi Clinic,0,Swargate,"Tue-Sat 12-3, 6-9",9823124578
+Dr. Ashutosh More,MMC/2018/74563,"MBBS, MS",Urology,Ruby Hall Clinic,1,Swargate,"Mon-Fri 11-2, 5-8",9763456781
+Dr. Poonam Kothari,MMC/2016/93456,"MBBS, MS",Ophthalmology,H.V. Desai Eye Hospital,1,Swargate,"Mon-Sat 9-12, 5-7",9856234710
+Dr. Ajay Shinde,MMC/2019/83214,"MBBS, DM",Neurology,NeuroCare Hospital,0,Swargate,"Mon-Fri 10-2, 6-9",9723456109
+Dr. Shruti Pathak,MMC/2020/96321,"MBBS, MS",Otorhinolaryngology,KEM Hospital,1,Swargate,"Tue-Sun 10-1, 5-8",9867123098
+Dr. Amol Rane,MMC/2017/87123,"MBBS, MD",Psychiatry,Noble Hospital,0,Swargate,Mon-Sat 2-6,9821789450
+Dr. Neha Sathe,MMC/2015/76983,"MBBS, BDS",Dentistry,Sanjeevan Dental Clinic,1,Swargate,"Mon-Fri 9-1, 4-8",9856123789
+Dr. Chetan Mahajan,MMC/2016/84562,"MBBS, MD",General Medicine,D.Y. Patil Hospital,1,Swargate,"Mon-Sat 10-1, 6-9",9832124587
+Dr. Leena Chavan,MMC/2019/90123,"MBBS, DM",Endocrinology,Endocare Clinic,0,Swargate,"Mon-Fri 11-3, 6-8",9765432189
+Dr. Radhika Joshi,MMC/2017/78234,"MBBS, MD",Gynecology,Deenanath Mangeshkar Hospital,1,Bibwewadi,"Mon-Fri 10-1, 5-8",9823145678
+Dr. Kiran Patankar,MMC/2016/89345,"MBBS, MS",Orthopedics,Sancheti Hospital,0,Bibwewadi,"Mon-Sat 9-12, 6-9",9765234781
+Dr. Snehal Kulkarni,MMC/2019/76123,"MBBS, MD",Pediatrics,Ruby Hall Clinic,1,Bibwewadi,"Tue-Sun 11-2, 5-7",9812345609
+Dr. Amit Ghorpade,MMC/2015/84567,"MBBS, DM",Cardiology,Noble Hospital,1,Bibwewadi,"Mon-Fri 9-1, 6-8",9856342190
+Dr. Shubhangi Date,MMC/2018/93214,"MBBS, MD",Pathology,KEM Hospital,0,Bibwewadi,Mon-Sat 10-2,9890432156
+Dr. Prakash Jagtap,MMC/2016/89421,"MBBS, MD",Pulmonology,Bibwewadi Multispeciality,1,Bibwewadi,"Mon-Fri 10-1, 5-8",9821435760
+Dr. Seema Vaidya,MMC/2017/81245,"MBBS, MD",Dermatology,Cosmos Clinic,0,Bibwewadi,"Tue-Sat 12-3, 6-9",9765234198
+Dr. Manish Bhandari,MMC/2019/92134,"MBBS, MS",Urology,Deenanath Mangeshkar Hospital,1,Bibwewadi,"Mon-Fri 11-2, 5-8",9812376540
+Dr. Pooja Khedkar,MMC/2018/86543,"MBBS, MS",Ophthalmology,H.V. Desai Eye Hospital,1,Bibwewadi,"Mon-Sat 9-12, 5-7",9890721345
+Dr. Sandeep Jadhav,MMC/2016/94321,"MBBS, DM",Neurology,NeuroCare Hospital,0,Bibwewadi,"Mon-Fri 10-2, 6-9",9723154678
+Dr. Ashwini Karandikar,MMC/2020/95432,"MBBS, MS",Otorhinolaryngology,Ruby Hall Clinic,1,Bibwewadi,"Tue-Sun 10-1, 5-8",9867452130
+Dr. Nitin Thakur,MMC/2015/87432,"MBBS, MD",Psychiatry,Sanjeevan Hospital,0,Bibwewadi,Mon-Sat 2-6,9821987456
+Dr. Rucha Naik,MMC/2017/80123,"MBBS, BDS",Dentistry,Smile Dental Clinic,1,Bibwewadi,"Mon-Fri 9-1, 4-8",9856123045
+Dr. Mahesh Chitale,MMC/2018/87654,"MBBS, MD",General Medicine,Inlaks Hospital,1,Bibwewadi,"Mon-Sat 10-1, 6-9",9832014789
+Dr. Aparna Londhe,MMC/2019/94321,"MBBS, DM",Endocrinology,Endocare Clinic,0,Bibwewadi,"Mon-Fri 11-3, 6-8",9765432134
+Dr. Kavita More,MMC/2018/87231,"MBBS, MD",Gynecology,Nigdi Family Care Hospital,1,Nigdi,"Mon-Fri 10-1, 5-8",9823124587
+Dr. Ramesh Pawar,MMC/2016/89456,"MBBS, MS",Orthopedics,Shree Sai Orthopedic Center,0,Nigdi,"Mon-Sat 9-12, 6-9",9765123480
+Dr. Neha Gokhale,MMC/2019/76542,"MBBS, MD",Pediatrics,Little Stars Children's Clinic,1,Nigdi,"Tue-Sun 11-2, 5-7",9812564370
+Dr. Sagar Deshpande,MMC/2015/84561,"MBBS, DM",Cardiology,Nigdi Heart & Wellness Center,1,Nigdi,"Mon-Fri 9-1, 6-8",9856341276
+Dr. Priya Sathe,MMC/2018/93216,"MBBS, MD",Pathology,Accurate Path Labs,0,Nigdi,Mon-Sat 10-2,9890456123
+Dr. Uday Joshi,MMC/2016/89428,"MBBS, MD",Pulmonology,Nigdi PulmoCare Hospital,1,Nigdi,"Mon-Fri 10-1, 5-8",9821436780
+Dr. Smita Kulkarni,MMC/2017/81249,"MBBS, MD",Dermatology,Glow Skin & Hair Clinic,0,Nigdi,"Tue-Sat 12-3, 6-9",9765234155
+Dr. Ajay Rane,MMC/2019/92139,"MBBS, MS",Urology,Lifeline Urology Center,1,Nigdi,"Mon-Fri 11-2, 5-8",9812376599
+Dr. Shilpa Jadhav,MMC/2018/86549,"MBBS, MS",Ophthalmology,Vision Plus Eye Clinic,1,Nigdi,"Mon-Sat 9-12, 5-7",9890721341
+Dr. Yogesh Patil,MMC/2016/94329,"MBBS, DM",Neurology,Neuro Health Point,0,Nigdi,"Mon-Fri 10-2, 6-9",9723154601
+Dr. Anuja Inamdar,MMC/2020/95439,"MBBS, MS",Otorhinolaryngology,Shree ENT & Hearing Clinic,1,Nigdi,"Tue-Sun 10-1, 5-8",9867452104
+Dr. Pradeep Shinde,MMC/2015/87439,"MBBS, MD",Psychiatry,MindCare Wellness Clinic,0,Nigdi,Mon-Sat 2-6,9821987499
+Dr. Meenal Khot,MMC/2017/80129,"MBBS, BDS",Dentistry,SmileCure Dental Studio,1,Nigdi,"Mon-Fri 9-1, 4-8",9856123070
+Dr. Ashok Nair,MMC/2018/87659,"MBBS, MD",General Medicine,Shraddha General Hospital,1,Nigdi,"Mon-Sat 10-1, 6-9",9832014722
+Dr. Rutuja Chavan,MMC/2019/94329,"MBBS, DM",Endocrinology,EndoWell Diabetes & Hormone Clinic,0,Nigdi,"Mon-Fri 11-3, 6-8",9765432121
+Dr. Anil Bhandari,MMC/2017/84231,"MBBS, MD",Gynecology,Warje Women's Care Hospital,1,Warje,"Mon-Fri 10-1, 5-8",9823412765
+Dr. Sneha Dighe,MMC/2018/91354,"MBBS, MS",Orthopedics,OrthoPlus Joint Clinic,0,Warje,"Mon-Sat 9-12, 6-9",9765123890
+Dr. Mahesh Karve,MMC/2019/76521,"MBBS, MD",Pediatrics,Happy Kids Children's Hospital,1,Warje,"Tue-Sun 11-2, 5-7",9812736401
+Dr. Radhika Joshi,MMC/2016/85467,"MBBS, DM",Cardiology,Warje Heart & Vascular Center,1,Warje,"Mon-Fri 9-1, 6-8",9856341927
+Dr. Kiran Shirole,MMC/2015/91236,"MBBS, MD",Pathology,PrimePath Diagnostics,0,Warje,Mon-Sat 10-2,9890465321
+Dr. Deepak Ranade,MMC/2018/93412,"MBBS, MD",Pulmonology,LungCare Specialty Hospital,1,Warje,"Mon-Fri 10-1, 5-8",9821473065
+Dr. Varsha Gokhale,MMC/2017/82195,"MBBS, MD",Dermatology,DermaLife Skin Clinic,0,Warje,"Tue-Sat 12-3, 6-9",9765321045
+Dr. Nitin Jadhav,MMC/2019/90123,"MBBS, MS",Urology,Warje Urology Center,1,Warje,"Mon-Fri 11-2, 5-8",9812374659
+Dr. Shubhangi Kulkarni,MMC/2018/86549,"MBBS, MS",Ophthalmology,ClearView Eye Hospital,1,Warje,"Mon-Sat 9-12, 5-7",9890721354
+Dr. Pramod Inamdar,MMC/2016/94387,"MBBS, DM",Neurology,NeuroWell Clinic,0,Warje,"Mon-Fri 10-2, 6-9",9723154980
+Dr. Aarti Sathe,MMC/2020/95412,"MBBS, MS",Otorhinolaryngology,ENT Solutions Center,1,Warje,"Tue-Sun 10-1, 5-8",9867452130
+Dr. Suresh Rane,MMC/2015/87456,"MBBS, MD",Psychiatry,MindSpace Psychiatry Clinic,0,Warje,Mon-Sat 2-6,9821987432
+Dr. Pooja Pawar,MMC/2017/80142,"MBBS, BDS",Dentistry,SmileBright Dental Care,1,Warje,"Mon-Fri 9-1, 4-8",9856123940
+Dr. Rajendra Patil,MMC/2018/87659,"MBBS, MD",General Medicine,Shivam General Hospital,1,Warje,"Mon-Sat 10-1, 6-9",9832014709
+Dr. Seema Chavan,MMC/2019/94387,"MBBS, DM",Endocrinology,HormoneCare Diabetes Center,0,Warje,"Mon-Fri 11-3, 6-8",9765432189
+Dr. Meenal Deshpande,MMC/2018/90112,"MBBS, MD",Gynecology,Sinhagad Women's Hospital,1,Sinhagad Road,"Mon-Fri 10-1, 5-8",9823174065
+Dr. Ashwin More,MMC/2019/84567,"MBBS, MS",Orthopedics,JointCare Ortho Center,0,Sinhagad Road,"Tue-Sat 9-12, 6-9",9765342180
+Dr. Rucha Kulkarni,MMC/2017/93254,"MBBS, MD",Pediatrics,HealthyKids Clinic,1,Sinhagad Road,"Mon-Fri 11-2, 5-8",9812734502
+Dr. Prakash Shewale,MMC/2016/88742,"MBBS, DM",Cardiology,HeartWell Institute,1,Sinhagad Road,"Mon-Sat 9-1, 6-8",9856123479
+Dr. Kalyani Jagtap,MMC/2015/94321,"MBBS, MD",Pathology,AccuLab Diagnostics,0,Sinhagad Road,Mon-Sat 10-2,9890432156
+Dr. Shashank Patil,MMC/2020/96541,"MBBS, MD",Pulmonology,LungLife Specialty Hospital,1,Sinhagad Road,"Tue-Sun 10-1, 5-7",9821034765
+Dr. Snehal Shinde,MMC/2017/87654,"MBBS, MD",Dermatology,ClearSkin Clinic,0,Sinhagad Road,"Mon-Fri 12-3, 6-9",9765432810
+Dr. Aditya Deshmukh,MMC/2018/93421,"MBBS, MS",Urology,Sinhagad Urology Care,1,Sinhagad Road,"Mon-Sat 10-1, 5-8",9812047635
+Dr. Priya Inamdar,MMC/2016/82345,"MBBS, MS",Ophthalmology,VisionCare Eye Center,1,Sinhagad Road,"Mon-Sat 9-12, 5-7",9890674312
+Dr. Nikhil Gawade,MMC/2019/82109,"MBBS, DM",Neurology,NeuroPulse Clinic,0,Sinhagad Road,"Mon-Fri 10-2, 6-9",9723145068
+Dr. Komal Rane,MMC/2021/95420,"MBBS, MS",Otorhinolaryngology,ENT HealWell Hospital,1,Sinhagad Road,"Tue-Sun 10-1, 5-8",9867543012
+Dr. Santosh Borse,MMC/2015/83201,"MBBS, MD",Psychiatry,CalmMind Psychiatry Center,0,Sinhagad Road,Mon-Sat 2-6,9821743098
+Dr. Smita Jadhav,MMC/2017/80214,"MBBS, BDS",Dentistry,BrightSmile Dental Care,1,Sinhagad Road,"Mon-Fri 9-1, 4-8",9856032147
+Dr. Vishal Chavan,MMC/2018/82374,"MBBS, MD",General Medicine,LifeCare General Hospital,1,Sinhagad Road,"Mon-Sat 10-1, 6-9",9832147650
+Dr. Anuja Khedekar,MMC/2019/90213,"MBBS, DM",Endocrinology,EndoWell Diabetes Center,0,Sinhagad Road,"Mon-Fri 11-3, 6-8",9765213480
+Dr. Kavita Ranade,MMC/2018/94120,"MBBS, MD",Gynecology,MG Road Women's Care,1,MG Road,"Mon-Fri 10-1, 5-8",9823457610
+Dr. Rahul Bhise,MMC/2019/83214,"MBBS, MS",Orthopedics,BoneCare Ortho Hospital,0,MG Road,"Tue-Sat 9-12, 6-9",9765432108
+Dr. Neha Bhosale,MMC/2017/87564,"MBBS, MD",Pediatrics,LittleHearts Children's Clinic,1,MG Road,"Mon-Fri 11-2, 5-8",9812043567
+Dr. Ajinkya Naik,MMC/2016/84215,"MBBS, DM",Cardiology,CardioPulse Institute,1,MG Road,"Mon-Sat 9-1, 6-8",9856123490
+Dr. Poonam Khot,MMC/2015/90234,"MBBS, MD",Pathology,Accurate Diagnostics Lab,0,MG Road,Mon-Sat 10-2,9890432159
+Dr. Omkar Phadke,MMC/2020/95432,"MBBS, MD",Pulmonology,LungCare Specialty Hospital,1,MG Road,"Tue-Sun 10-1, 5-7",9821034768
+Dr. Rupali Pawar,MMC/2017/86743,"MBBS, MD",Dermatology,SkinGlow Clinic,0,MG Road,"Mon-Fri 12-3, 6-9",9765432871
+Dr. Abhijeet Salunkhe,MMC/2018/92457,"MBBS, MS",Urology,MG Urology Care Center,1,MG Road,"Mon-Sat 10-1, 5-8",9812047681
+Dr. Shweta Karandikar,MMC/2016/81562,"MBBS, MS",Ophthalmology,VisionPlus Eye Hospital,1,MG Road,"Mon-Sat 9-12, 5-7",9890674317
+Dr. Tejas Godse,MMC/2019/84209,"MBBS, DM",Neurology,NeuroCare Pune,0,MG Road,"Mon-Fri 10-2, 6-9",9723145091
+Dr. Manasi Wagh,MMC/2021/96720,"MBBS, MS",Otorhinolaryngology,ENT Cure Clinic,1,MG Road,"Tue-Sun 10-1, 5-8",9867543015
+Dr. Sandeep Jangam,MMC/2015/83429,"MBBS, MD",Psychiatry,MindSpace Psychiatry Center,0,MG Road,Mon-Sat 2-6,9821743017
+Dr. Radhika Joshi,MMC/2017/80314,"MBBS, BDS",Dentistry,DentalWell Clinic,1,MG Road,"Mon-Fri 9-1, 4-8",9856032198
+Dr. Nitin Shirole,MMC/2018/82474,"MBBS, MD",General Medicine,MG Road General Hospital,1,MG Road,"Mon-Sat 10-1, 6-9",9832147695
+Dr. Anagha Satpute,MMC/2019/91302,"MBBS, DM",Endocrinology,Diabetes Wellness Center,0,MG Road,"Mon-Fri 11-3, 6-8",9765213491
+Dr. Priyanka Jadhav,MMC/2017/81245,"MBBS, MD",Gynecology,Tathawade Women's Care Center,1,Tathawade,"Mon-Fri 10-1, 5-8",9823412675
+Dr. Rohan Chitale,MMC/2019/83429,"MBBS, MS",Orthopedics,OrthoLife Hospital,0,Tathawade,"Tue-Sat 9-12, 6-9",9765438921
+Dr. Snehal More,MMC/2018/86741,"MBBS, MD",Pediatrics,Little Bloom Kids Clinic,1,Tathawade,"Mon-Fri 11-2, 5-8",9812045634
+Dr. Akshay Bhandari,MMC/2016/87290,"MBBS, DM",Cardiology,HeartCare Specialty Institute,1,Tathawade,"Mon-Sat 9-1, 6-8",9856190347
+Dr. Meenal Kulkarni,MMC/2015/85673,"MBBS, MD",Pathology,Precision Path Labs,0,Tathawade,Mon-Sat 10-2,9890437654
+Dr. Harshad Inamdar,MMC/2020/94420,"MBBS, MD",Pulmonology,Lung Relief Hospital,1,Tathawade,"Tue-Sun 10-1, 5-7",9821034987
+Dr. Amruta Shinde,MMC/2017/83427,"MBBS, MD",Dermatology,SkinRevive Clinic,0,Tathawade,"Mon-Fri 12-3, 6-9",9765432019
+Dr. Mahesh Shirodkar,MMC/2018/91230,"MBBS, MS",Urology,UroPlus Care Center,1,Tathawade,"Mon-Sat 10-1, 5-8",9812047635
+Dr. Deepa Karve,MMC/2016/89204,"MBBS, MS",Ophthalmology,ClearVision Eye Hospital,1,Tathawade,"Mon-Sat 9-12, 5-7",9890674123
+Dr. Amol Patankar,MMC/2019/84213,"MBBS, DM",Neurology,NeuroTrust Clinic,0,Tathawade,"Mon-Fri 10-2, 6-9",9723145082
+Dr. Pallavi Londhe,MMC/2021/97832,"MBBS, MS",Otorhinolaryngology,ENT Plus Hospital,1,Tathawade,"Tue-Sun 10-1, 5-8",9867543028
+Dr. Shrikant Joglekar,MMC/2015/89243,"MBBS, MD",Psychiatry,MindHeal Psychiatry Center,0,Tathawade,Mon-Sat 2-6,9821743019
+Dr. Vaishnavi Apte,MMC/2017/86520,"MBBS, BDS",Dentistry,SmileCare Dental Clinic,1,Tathawade,"Mon-Fri 9-1, 4-8",9856032187
+Dr. Kiran Sonawane,MMC/2018/84267,"MBBS, MD",General Medicine,Tathawade General Hospital,1,Tathawade,"Mon-Sat 10-1, 6-9",9832147684
+Dr. Suvarna Gokhale,MMC/2019/93218,"MBBS, DM",Endocrinology,Diabetes & Thyroid Center,0,Tathawade,"Mon-Fri 11-3, 6-8",9765213487
+Dr. Neha Joshi,MMC/2016/84521,"MBBS, MD",Gynecology,Wakad Women's Care Hospital,1,Wakad,"Mon-Fri 10-1, 5-8",9823147056
+Dr. Amit Phadke,MMC/2017/85634,"MBBS, MS",Orthopedics,Joint Relief Ortho Clinic,0,Wakad,"Tue-Sat 9-12, 6-9",9765321409
+Dr. Rutuja Mane,MMC/2018/86452,"MBBS, MD",Pediatrics,ChildFirst Care Center,1,Wakad,"Mon-Fri 11-2, 5-8",9812057463
+Dr. Sandeep Purohit,MMC/2015/83290,"MBBS, DM",Cardiology,HeartLife Specialty Hospital,1,Wakad,"Mon-Sat 9-1, 6-8",9856123094
+Dr. Sneha Rane,MMC/2019/87234,"MBBS, MD",Pathology,Prime Path Labs,0,Wakad,Mon-Sat 10-2,9890456128
+Dr. Abhijeet Thakur,MMC/2017/89420,"MBBS, MD",Pulmonology,Respicare Clinic,1,Wakad,"Tue-Sun 10-1, 5-7",9821764532
+Dr. Komal Shirsat,MMC/2018/84235,"MBBS, MD",Dermatology,GlowSkin Clinic,0,Wakad,"Mon-Fri 12-3, 6-9",9765023941
+Dr. Chetan Dighe,MMC/2019/90218,"MBBS, MS",Urology,RenalCare Center,1,Wakad,"Mon-Sat 10-1, 5-8",9812076345
+Dr. Pooja Mahajan,MMC/2020/94432,"MBBS, MS",Ophthalmology,Vision Plus Eye Hospital,1,Wakad,"Mon-Sat 9-12, 5-7",9890623148
+Dr. Rajiv Kothari,MMC/2016/86549,"MBBS, DM",Neurology,BrainTrust Hospital,0,Wakad,"Mon-Fri 10-2, 6-9",9723165402
+Dr. Swati Kulshreshtha,MMC/2017/87435,"MBBS, MS",Otorhinolaryngology,ENT Care Point,1,Wakad,"Tue-Sun 10-1, 5-8",9867541239
+Dr. Milind Shetty,MMC/2015/85329,"MBBS, MD",Psychiatry,MindCare Wellness Clinic,0,Wakad,Mon-Sat 2-6,9821456037
+Dr. Isha Rathod,MMC/2018/89231,"MBBS, BDS",Dentistry,HealthySmile Dental Care,1,Wakad,"Mon-Fri 9-1, 4-8",9856043217
+Dr. Omkar Ghosh,MMC/2019/92314,"MBBS, MD",General Medicine,Wakad General Clinic,1,Wakad,"Mon-Sat 10-1, 6-9",9832164075
+Dr. Anuradha Pawar,MMC/2021/97814,"MBBS, DM",Endocrinology,Thyroid & Diabetes Center,0,Wakad,"Mon-Fri 11-3, 6-8",9765432109
+Dr. Shilpa Ingle,MMC/2017/82314,"MBBS, MD",Gynecology,Hinjewadi Women's Wellness Center,1,Hinjewadi,"Mon-Fri 10-1, 5-8",9823148092
+Dr. Nitin Patil,MMC/2016/85492,"MBBS, MS",Orthopedics,Bone & Joint Care Hospital,0,Hinjewadi,"Tue-Sat 9-12, 6-9",9765423107
+Dr. Aarti Gawade,MMC/2018/86417,"MBBS, MD",Pediatrics,Little Steps Kids Clinic,1,Hinjewadi,"Mon-Fri 11-2, 5-8",9812045627
+Dr. Rohit Naik,MMC/2015/87235,"MBBS, DM",Cardiology,Heartbeat Cardiac Care,1,Hinjewadi,"Mon-Sat 9-1, 6-8",9856192734
+Dr. Vidya Pendse,MMC/2019/84520,"MBBS, MD",Pathology,AccuPath Labs,0,Hinjewadi,Mon-Sat 10-2,9890412765
+Dr. Prashant Desai,MMC/2017/89405,"MBBS, MD",Pulmonology,RespiraCare Hospital,1,Hinjewadi,"Tue-Sun 10-1, 5-7",9821034769
+Dr. Shweta Kharat,MMC/2016/83425,"MBBS, MD",Dermatology,SkinGlow Aesthetic Clinic,0,Hinjewadi,"Mon-Fri 12-3, 6-9",9765342098
+Dr. Manish Vyas,MMC/2018/90217,"MBBS, MS",Urology,UroHealth Specialty Clinic,1,Hinjewadi,"Mon-Sat 10-1, 5-8",9812076593
+Dr. Kavita Mehra,MMC/2020/94412,"MBBS, MS",Ophthalmology,EyeWell Hospital,1,Hinjewadi,"Mon-Sat 9-12, 5-7",9890654310
+Dr. Sameer Jagtap,MMC/2019/87210,"MBBS, DM",Neurology,NeuroVision Institute,0,Hinjewadi,"Mon-Fri 10-2, 6-9",9723165982
+Dr. Priya Narkar,MMC/2017/87421,"MBBS, MS",Otorhinolaryngology,ENT Plus Care Center,1,Hinjewadi,"Tue-Sun 10-1, 5-8",9867543127
+Dr. Vishal Malhotra,MMC/2015/84321,"MBBS, MD",Psychiatry,MindWell Clinic,0,Hinjewadi,Mon-Sat 2-6,9821456701
+Dr. Richa Sane,MMC/2018/89214,"MBBS, BDS",Dentistry,BrightSmile Dental Care,1,Hinjewadi,"Mon-Fri 9-1, 4-8",9856043719
+Dr. Aniket Sawant,MMC/2019/93214,"MBBS, MD",General Medicine,Hinjewadi General Hospital,1,Hinjewadi,"Mon-Sat 10-1, 6-9",9832164790
+Dr. Smita Dhavale,MMC/2021/97803,"MBBS, DM",Endocrinology,Diabetes & Hormone Care,0,Hinjewadi,"Mon-Fri 11-3, 6-8",9765432980
+Dr. Manisha Kulkarni,MMC/2016/82341,"MBBS, MD",Gynecology,Balewadi Women's Hospital,1,Balewadi,"Mon-Fri 10-1, 5-8",9823051472
+Dr. Kiran Salunkhe,MMC/2017/83429,"MBBS, MS",Orthopedics,BoneFlex Ortho Care,0,Balewadi,"Tue-Sat 9-12, 6-9",9765032417
+Dr. Priyanka More,MMC/2019/84512,"MBBS, MD",Pediatrics,KidzCare Children Clinic,1,Balewadi,"Mon-Fri 11-2, 5-8",9812049375
+Dr. Sachin Jadhav,MMC/2015/87261,"MBBS, DM",Cardiology,CardioLife Specialty Hospital,1,Balewadi,"Mon-Sat 9-1, 6-8",9856120349
+Dr. Vaishali Gite,MMC/2018/89410,"MBBS, MD",Pathology,AccuCheck Diagnostic Labs,0,Balewadi,Mon-Sat 10-2,9890456732
+Dr. Deepak Londhe,MMC/2016/86421,"MBBS, MD",Pulmonology,BreatheWell Chest Care,1,Balewadi,"Tue-Sun 10-1, 5-7",9821076459
+Dr. Rina Khare,MMC/2017/87423,"MBBS, MD",Dermatology,SkinRenew Aesthetic Center,0,Balewadi,"Mon-Fri 12-3, 6-9",9765423810
+Dr. Hemant Barve,MMC/2019/90214,"MBBS, MS",Urology,UroLife Clinic,1,Balewadi,"Mon-Sat 10-1, 5-8",9812074356
+Dr. Ashwini Shelar,MMC/2020/94425,"MBBS, MS",Ophthalmology,ClearVision Eye Care,1,Balewadi,"Mon-Sat 9-12, 5-7",9890632140
+Dr. Arvind Patankar,MMC/2016/86513,"MBBS, DM",Neurology,BrainPoint Institute,0,Balewadi,"Mon-Fri 10-2, 6-9",9723165092
+Dr. Smita Redkar,MMC/2017/87418,"MBBS, MS",Otorhinolaryngology,ENT Heal Clinic,1,Balewadi,"Tue-Sun 10-1, 5-8",9867541209
+Dr. Rahul Verma,MMC/2015/85348,"MBBS, MD",Psychiatry,WellMind Wellness Center,0,Balewadi,Mon-Sat 2-6,9821453098
+Dr. Gayatri Deshmukh,MMC/2018/89210,"MBBS, BDS",Dentistry,SmilePro Dental Care,1,Balewadi,"Mon-Fri 9-1, 4-8",9856043921
+Dr. Anand Kale,MMC/2019/92341,"MBBS, MD",General Medicine,Balewadi Health Clinic,1,Balewadi,"Mon-Sat 10-1, 6-9",9832164019
+Dr. Seema Naidu,MMC/2021/97823,"MBBS, DM",Endocrinology,EndoCare Hospital,0,Balewadi,"Mon-Fri 11-3, 6-8",9765432198
+Dr. Vandana Iyer,MMC/2016/83214,"MBBS, MD",Gynecology,Bavdhan Maternity Care,1,Bavdhan,"Mon-Fri 10-1, 5-8",9823176405
+Dr. Rohit Shinde,MMC/2017/84529,"MBBS, MS",Orthopedics,JointCare Ortho Center,0,Bavdhan,"Tue-Sat 9-12, 6-9",9765423105
+Dr. Sonali Raut,MMC/2019/86541,"MBBS, MD",Pediatrics,Healthy Kids Pediatric Clinic,1,Bavdhan,"Mon-Fri 11-2, 5-8",9812045372
+Dr. Ajay Mehta,MMC/2015/87242,"MBBS, DM",Cardiology,HeartSecure Hospital,1,Bavdhan,"Mon-Sat 9-1, 6-8",9856192401
+Dr. Pallavi Kshirsagar,MMC/2018/89412,"MBBS, MD",Pathology,LifeCheck Diagnostics,0,Bavdhan,Mon-Sat 10-2,9890456129
+Dr. Narendra Gawli,MMC/2016/87435,"MBBS, MD",Pulmonology,BreatheFree Chest Care,1,Bavdhan,"Tue-Sun 10-1, 5-7",9821074315
+Dr. Sharmila Dixit,MMC/2017/89241,"MBBS, MD",Dermatology,DermaGlow Clinic,0,Bavdhan,"Mon-Fri 12-3, 6-9",9765032148
+Dr. Suraj Pawaskar,MMC/2019/90219,"MBBS, MS",Urology,UroPlus Specialty Clinic,1,Bavdhan,"Mon-Sat 10-1, 5-8",9812074561
+Dr. Alka Sethi,MMC/2020/94429,"MBBS, MS",Ophthalmology,EyePoint Care Hospital,1,Bavdhan,"Mon-Sat 9-12, 5-7",9890632415
+Dr. Girish Sharma,MMC/2016/86321,"MBBS, DM",Neurology,NeuroVision Center,0,Bavdhan,"Mon-Fri 10-2, 6-9",9723165741
+Dr. Prachi Patil,MMC/2017/87429,"MBBS, MS",Otorhinolaryngology,ENT First Clinic,1,Bavdhan,"Tue-Sun 10-1, 5-8",9867541321
+Dr. Devendra Rao,MMC/2015/85327,"MBBS, MD",Psychiatry,MindRelief Clinic,0,Bavdhan,Mon-Sat 2-6,9821456902
+Dr. Reema Gupta,MMC/2018/89215,"MBBS, BDS",Dentistry,SmileCare Dental Center,1,Bavdhan,"Mon-Fri 9-1, 4-8",9856043957
+Dr. Nilesh Bhosale,MMC/2019/92312,"MBBS, MD",General Medicine,Bavdhan Family Clinic,1,Bavdhan,"Mon-Sat 10-1, 6-9",9832164982
+Dr. Snehal Jagtap,MMC/2021/97829,"MBBS, DM",Endocrinology,ThyroWell Endocrine Center,0,Bavdhan,"Mon-Fri 11-3, 6-8",9765432103
+Dr. Neha Kulkarni,MMC/2012/92341,"MBBS, MD",Gynecology,LifeCare Women’s Clinic,1,Yerwada,"Mon-Sat 10-1, 5-8",9823012345
+Dr. Rajesh Patil,MMC/2015/81256,"MBBS, MS",Orthopedics,Bone & Joint Hospital,0,Yerwada,"Mon-Fri 9-12, 6-9",9765432189
+Dr. Shweta Nair,MMC/2018/86720,"MBBS, MD",Pediatrics,Little Stars Clinic,1,Yerwada,"Mon-Sat 11-2, 5-8",9812098765
+Dr. Amit Deshmukh,MMC/2011/75642,"MBBS, DM",Cardiology,HeartCare Center,1,Yerwada,"Tue-Sat 10-1, 6-9",9832104521
+Dr. Priya Menon,MMC/2016/83451,"MBBS, MD",Pathology,LabTech Diagnostics,1,Yerwada,Mon-Sat 9-5,9856741230
+Dr. Rohan Jadhav,MMC/2014/74529,"MBBS, MD",Pulmonology,Healthy Lungs Clinic,0,Yerwada,"Mon-Fri 10-2, 6-8",9723145609
+Dr. Kavita Sharma,MMC/2017/83219,"MBBS, MD",Dermatology,SkinGlow Clinic,1,Yerwada,"Tue-Sat 11-3, 5-8",9812054321
+Dr. Nikhil Verma,MMC/2019/81278,"MBBS, MS",Urology,UroCare Center,0,Yerwada,"Mon-Sat 9-1, 6-9",9765012345
+Dr. Anjali Singh,MMC/2013/74521,"MBBS, MS",Ophthalmology,Vision Plus Eye Care,1,Yerwada,"Mon-Fri 10-1, 5-7",9823109876
+Dr. Sameer Khan,MMC/2012/75482,"MBBS, DM",Neurology,NeuroLife Clinic,1,Yerwada,"Mon-Sat 9-12, 5-8",9812034521
+Dr. Vandita Rao,MMC/2014/76439,"MBBS, MS",Otorhinolaryngology,Ear Nose Throat Care,0,Yerwada,"Tue-Sat 10-1, 6-9",9776543210
+Dr. Meera Joshi,MMC/2015/87452,"MBBS, MD",Psychiatry,Mind Wellness Center,1,Yerwada,"Mon-Fri 11-3, 6-8",9823156780
+Dr. Rakesh Shetty,MMC/2018/81235,"BDS, MDS",Dentistry,Smile Dental Care,1,Yerwada,"Mon-Sat 10-2, 5-9",9812024680
+Dr. Suresh Bhat,MMC/2017/89431,"MBBS, MD",General Medicine,Family Health Clinic,1,Yerwada,"Mon-Fri 9-1, 6-9",9823456789
+Dr. Pallavi Desai,MMC/2016/82345,"MBBS, DM",Endocrinology,Hormone Care Center,1,Yerwada,"Mon-Sat 10-2, 5-8",9812765432
+Dr. Tanvi Kapoor,MMC/2014/87543,"MBBS, MD",Gynecology,WellWomen Clinic,0,Koregaon Park,"Mon-Sat 11-2, 6-9",9823987456
+Dr. Arjun Mehta,MMC/2013/86547,"MBBS, MS",Orthopedics,OrthoCare Hospital,1,Koregaon Park,"Mon-Fri 9-12, 5-8",9765987412
+Dr. Sneha Reddy,MMC/2019/87456,"MBBS, MD",Pediatrics,KidsFirst Clinic,1,Koregaon Park,"Mon-Sat 10-1, 6-8",9812347650
+Dr. Karan Sethi,MMC/2012/83451,"MBBS, DM",Cardiology,HeartWell Clinic,0,Koregaon Park,"Mon-Fri 11-3, 6-9",9832154320
+Dr. Divya Malhotra,MMC/2015/87412,"MBBS, MD",Pathology,Prime Diagnostics,1,Koregaon Park,Mon-Sat 9-5,9856784321
+Dr. Vivek Agrawal,MMC/2011/86439,"MBBS, MD",Pulmonology,BreatheWell Clinic,1,Koregaon Park,"Tue-Sat 10-1, 6-9",9723156780
+Dr. Ritu Sharma,MMC/2018/81247,"MBBS, MD",Dermatology,ClearSkin Clinic,1,Koregaon Park,"Mon-Fri 10-2, 5-8",9812349876
+Dr. Manish Kapoor,MMC/2017/83245,"MBBS, MS",Urology,Prostate & Kidney Care,0,Koregaon Park,"Mon-Sat 9-1, 5-8",9765981234
+Dr. Harini Desai,MMC/2016/82354,"MBBS, MS",Ophthalmology,EyeQ Vision Clinic,1,Koregaon Park,"Mon-Sat 10-1, 6-9",9823012456
+Dr. Nitin Rao,MMC/2014/81256,"MBBS, DM",Neurology,BrainCare Clinic,1,Koregaon Park,"Mon-Fri 9-12, 5-8",9812009876
+Dr. Pooja Nair,MMC/2013/83472,"MBBS, MS",Otorhinolaryngology,ENT Specialty Clinic,0,Koregaon Park,"Tue-Sat 11-2, 6-9",9776012345
+Dr. Ashok Kulkarni,MMC/2015/87451,"MBBS, MD",Psychiatry,Mental Wellness Center,1,Koregaon Park,"Mon-Fri 10-2, 5-7",9823012987
+Dr. Radhika Singh,MMC/2017/81256,"BDS, MDS",Dentistry,SmileCare Dental Clinic,1,Koregaon Park,"Mon-Sat 9-1, 6-9",9812043650
+Dr. Gaurav Malhotra,MMC/2019/81245,"MBBS, MD",General Medicine,HealthFirst Clinic,1,Koregaon Park,"Mon-Sat 10-2, 5-9",9823456123
+Dr. Ananya Gupta,MMC/2018/83456,"MBBS, DM",Endocrinology,Diabetes & Hormone Clinic,1,Koregaon Park,"Mon-Sat 9-12, 6-8",9812098345
+Dr. Snehal Patwardhan,MMC/2013/81245,"MBBS, MD",Gynecology,Magarpatta Women’s Care,1,Magarpatta,"Mon-Sat 10-1, 5-8",9823012340
+Dr. Ajay Kamat,MMC/2016/87412,"MBBS, MS",Orthopedics,Magarpatta Ortho Center,0,Magarpatta,"Mon-Fri 9-12, 6-9",9765012398
+Dr. Shilpa Deshpande,MMC/2018/84561,"MBBS, MD",Pediatrics,Happy Kids Clinic,1,Magarpatta,"Mon-Sat 11-2, 6-8",9812045632
+Dr. Nitin Kulkarni,MMC/2012/83214,"MBBS, DM",Cardiology,HeartCare Magarpatta,1,Magarpatta,"Tue-Sat 10-1, 6-9",9832145670
+Dr. Komal Agarwal,MMC/2017/86543,"MBBS, MD",Pathology,AccuTest Diagnostics,1,Magarpatta,Mon-Sat 9-5,9856789012
+Dr. Chetan Bhise,MMC/2014/81239,"MBBS, MD",Pulmonology,Healthy Lungs Magarpatta,0,Magarpatta,"Mon-Fri 10-2, 6-8",9723150987
+Dr. Rupal Jadhav,MMC/2015/82341,"MBBS, MD",Dermatology,SkinGlow Magarpatta,1,Magarpatta,"Tue-Sat 11-3, 5-8",9812098764
+Dr. Abhijit Shah,MMC/2011/81256,"MBBS, MS",Urology,UroLife Clinic,0,Magarpatta,"Mon-Sat 9-1, 6-9",9765901234
+Dr. Pooja Gokhale,MMC/2019/86521,"MBBS, MS",Ophthalmology,Vision Magarpatta,1,Magarpatta,"Mon-Fri 10-1, 5-7",9823456129
+Dr. Anant Joshi,MMC/2014/82351,"MBBS, DM",Neurology,BrainCare Magarpatta,1,Magarpatta,"Mon-Sat 9-12, 5-8",9812765431
+Dr. Varsha Nene,MMC/2016/83429,"MBBS, MS",Otorhinolaryngology,Ear Nose Throat Magarpatta,0,Magarpatta,"Tue-Sat 10-1, 6-9",9776098123
+Dr. Reshma Salunke,MMC/2013/85621,"MBBS, MD",Psychiatry,Mind Health Center,1,Magarpatta,"Mon-Fri 11-3, 6-8",9823109875
+Dr. Deepak More,MMC/2017/81293,"BDS, MDS",Dentistry,Smile Dental Magarpatta,1,Magarpatta,"Mon-Sat 10-2, 5-9",9812056432
+Dr. Alok Banerjee,MMC/2015/83465,"MBBS, MD",General Medicine,Family Care Magarpatta,1,Magarpatta,"Mon-Fri 9-1, 6-9",9823012346
+Dr. Meenal Khatri,MMC/2018/84539,"MBBS, DM",Endocrinology,Diabetes Hormone Clinic,1,Magarpatta,"Mon-Sat 10-2, 5-8",9812345671
+Dr. Anjali Pawar,MMC/2014/81237,"MBBS, MD",Gynecology,Viman Nagar Women’s Clinic,1,Viman Nagar,"Mon-Sat 10-1, 5-8",9823045612
+Dr. Rohit Bansal,MMC/2017/84562,"MBBS, MS",Orthopedics,JointWell Ortho Clinic,0,Viman Nagar,"Mon-Fri 9-12, 6-9",9765098234
+Dr. Sneha Kshirsagar,MMC/2019/83456,"MBBS, MD",Pediatrics,KidsFirst Viman Nagar,1,Viman Nagar,"Mon-Sat 11-2, 6-8",9812345672
+Dr. Sandeep Verma,MMC/2012/84532,"MBBS, DM",Cardiology,HeartCare Viman Nagar,1,Viman Nagar,"Tue-Sat 10-1, 6-9",9832156780
+Dr. Prerna Mehta,MMC/2015/81248,"MBBS, MD",Pathology,AccuCheck Diagnostics,1,Viman Nagar,Mon-Sat 9-5,9856784320
+Dr. Vivek Singh,MMC/2013/82349,"MBBS, MD",Pulmonology,BreatheWell Viman Nagar,0,Viman Nagar,"Mon-Fri 10-2, 6-8",9723145678
+Dr. Nisha Kulshreshtha,MMC/2016/86549,"MBBS, MD",Dermatology,SkinCare Viman Nagar,1,Viman Nagar,"Tue-Sat 11-3, 5-8",9812098763
+Dr. Mayur Patil,MMC/2011/81294,"MBBS, MS",Urology,UroPlus Clinic,0,Viman Nagar,"Mon-Sat 9-1, 6-9",9765987654
+Dr. Divya Chopra,MMC/2018/83215,"MBBS, MS",Ophthalmology,ClearVision Viman Nagar,1,Viman Nagar,"Mon-Fri 10-1, 5-7",9823012450
+Dr. Ashish Sharma,MMC/2014/81283,"MBBS, DM",Neurology,NeuroLife Viman Nagar,1,Viman Nagar,"Mon-Sat 9-12, 5-8",9812098123
+Dr. Smita Dixit,MMC/2017/83462,"MBBS, MS",Otorhinolaryngology,ENT Viman Nagar,0,Viman Nagar,"Tue-Sat 10-1, 6-9",9776012340
+Dr. Neeraj Jain,MMC/2013/81257,"MBBS, MD",Psychiatry,MindCare Viman Nagar,1,Viman Nagar,"Mon-Fri 11-3, 6-8",9823456781
+Dr. Priyanka Rao,MMC/2015/83470,"BDS, MDS",Dentistry,Smile Dental Viman Nagar,1,Viman Nagar,"Mon-Sat 10-2, 5-9",9812765412
+Dr. Umesh Khanna,MMC/2016/86542,"MBBS, MD",General Medicine,Wellness Clinic,1,Viman Nagar,"Mon-Fri 9-1, 6-9",9823109234
+Dr. Aparna Shetty,MMC/2018/84561,"MBBS, DM",Endocrinology,Hormone Health Viman Nagar,1,Viman Nagar,"Mon-Sat 10-2, 5-8",9812045698
+Dr. Kavita Rao,MMC/2013/84532,"MBBS, MD",Gynecology,Wanowrie Women’s Clinic,1,Wanowrie,"Mon-Sat 10-1, 5-8",9823012451
+Dr. Abhishek Kulkarni,MMC/2017/83462,"MBBS, MS",Orthopedics,Wanowrie Bone & Joint Center,0,Wanowrie,"Mon-Fri 9-12, 6-9",9765982145
+Dr. Shreya Nair,MMC/2019/86543,"MBBS, MD",Pediatrics,Happy Kids Wanowrie,1,Wanowrie,"Mon-Sat 11-2, 6-8",9812098345
+Dr. Mohan Deshmukh,MMC/2012/81234,"MBBS, DM",Cardiology,HeartCare Wanowrie,1,Wanowrie,"Tue-Sat 10-1, 6-9",9832156798
+Dr. Reema Joshi,MMC/2015/83470,"MBBS, MD",Pathology,AccuLab Wanowrie,1,Wanowrie,Mon-Sat 9-5,9856784325
+Dr. Sameer Shinde,MMC/2014/82349,"MBBS, MD",Pulmonology,Healthy Lungs Wanowrie,0,Wanowrie,"Mon-Fri 10-2, 6-8",9723156789
+Dr. Neha Agarwal,MMC/2016/81283,"MBBS, MD",Dermatology,SkinGlow Wanowrie,1,Wanowrie,"Tue-Sat 11-3, 5-8",9812345673
+Dr. Kunal Verma,MMC/2011/83214,"MBBS, MS",Urology,UroCare Wanowrie,0,Wanowrie,"Mon-Sat 9-1, 6-9",9765901236
+Dr. Pooja Sharma,MMC/2018/83456,"MBBS, MS",Ophthalmology,Vision Care Wanowrie,1,Wanowrie,"Mon-Fri 10-1, 5-7",9823012480
+Dr. Aditya Mehta,MMC/2014/81239,"MBBS, DM",Neurology,NeuroLife Wanowrie,1,Wanowrie,"Mon-Sat 9-12, 5-8",9812765435
+Dr. Rina Patil,MMC/2017/83429,"MBBS, MS",Otorhinolaryngology,ENT Care Wanowrie,0,Wanowrie,"Tue-Sat 10-1, 6-9",9776012346
+Dr. Sanjay Kapoor,MMC/2013/85621,"MBBS, MD",Psychiatry,Mind Wellness Wanowrie,1,Wanowrie,"Mon-Fri 11-3, 6-8",9823456783
+Dr. Priya Shetty,MMC/2017/81294,"BDS, MDS",Dentistry,Smile Dental Wanowrie,1,Wanowrie,"Mon-Sat 10-2, 5-9",9812765416
+Dr. Raghav Jadhav,MMC/2015/83465,"MBBS, MD",General Medicine,Family Health Wanowrie,1,Wanowrie,"Mon-Fri 9-1, 6-9",9823012350
+Dr. Alka Shah,MMC/2018/84539,"MBBS, DM",Endocrinology,Hormone Care Wanowrie,1,Wanowrie,"Mon-Sat 10-2, 5-8",9812345679
+Dr. Rachana Iyer,MMC/2012/81254,"MBBS, MD",Gynecology,Dhankawadi Women’s Hospital,1,Dhankawadi,"Mon-Sat 10-1, 5-8",9823012490
+Dr. Manish Patil,MMC/2016/84521,"MBBS, MS",Orthopedics,OrthoPlus Dhankawadi,0,Dhankawadi,"Mon-Fri 9-12, 6-9",9765987658
+Dr. Swati Kulkarni,MMC/2018/83478,"MBBS, MD",Pediatrics,KidsFirst Dhankawadi,1,Dhankawadi,"Mon-Sat 11-2, 6-8",9812045692
+Dr. Vivek Sharma,MMC/2011/83219,"MBBS, DM",Cardiology,HeartCare Dhankawadi,1,Dhankawadi,"Tue-Sat 10-1, 6-9",9832156701
+Dr. Meera Rao,MMC/2015/82365,"MBBS, MD",Pathology,AccuLab Dhankawadi,1,Dhankawadi,Mon-Sat 9-5,9856784330
+Dr. Suresh Nene,MMC/2014/81235,"MBBS, MD",Pulmonology,LungCare Dhankawadi,0,Dhankawadi,"Mon-Fri 10-2, 6-8",9723156791
+Dr. Aparna Jadhav,MMC/2017/86543,"MBBS, MD",Dermatology,SkinGlow Dhankawadi,1,Dhankawadi,"Tue-Sat 11-3, 5-8",9812098124
+Dr. Rohit Desai,MMC/2013/83429,"MBBS, MS",Urology,UroPlus Dhankawadi,0,Dhankawadi,"Mon-Sat 9-1, 6-9",9765901238
+Dr. Tanvi Sinha,MMC/2019/84567,"MBBS, MS",Ophthalmology,Vision Care Dhankawadi,1,Dhankawadi,"Mon-Fri 10-1, 5-7",9823012412
+Dr. Abhay Joshi,MMC/2014/82341,"MBBS, DM",Neurology,BrainCare Dhankawadi,1,Dhankawadi,"Mon-Sat 9-12, 5-8",9812765438
+Dr. Pallavi Shah,MMC/2016/81239,"MBBS, MS",Otorhinolaryngology,ENT Clinic Dhankawadi,0,Dhankawadi,"Tue-Sat 10-1, 6-9",9776012349
+Dr. Nitin Gaikwad,MMC/2013/85645,"MBBS, MD",Psychiatry,MindCare Dhankawadi,1,Dhankawadi,"Mon-Fri 11-3, 6-8",9823456786
+Dr. Smita Kapoor,MMC/2015/83471,"BDS, MDS",Dentistry,Smile Dental Dhankawadi,1,Dhankawadi,"Mon-Sat 10-2, 5-9",9812765419
+Dr. Ajay Raut,MMC/2017/81248,"MBBS, MD",General Medicine,Family Care Dhankawadi,1,Dhankawadi,"Mon-Fri 9-1, 6-9",9823012360
+Dr. Krupa Menon,MMC/2018/84545,"MBBS, DM",Endocrinology,Hormone Health Dhankawadi,1,Dhankawadi,"Mon-Sat 10-2, 5-8",9812045696
+Dr. Kavita Patil,MMC/2014/92614,"MBBS, MD",Gynecology,Narhe Women's Health Care,1,Narhe,"Mon-Fri 10-1, 5-8",9893627410
+Dr. Suresh Jadhav,MMC/2012/91427,"MBBS, MS",Orthopedics,Narhe Ortho Center,0,Narhe,"Tue-Sat 9-12, 6-9",9764135209
+Dr. Manisha Kulkarni,MMC/2018/93124,"MBBS, MD",Pediatrics,Narhe Child Clinic,1,Narhe,"Mon-Fri 11-2, 5-8",9827164532
+Dr. Pradeep Bhosale,MMC/2011/91245,"MBBS, DM",Cardiology,Narhe Heart Care,1,Narhe,"Mon-Sat 10-1, 6-9",9812375410
+Dr. Sneha Rane,MMC/2013/91745,"MBBS, MD",Pathology,Narhe Diagnostic Center,0,Narhe,Mon-Fri 9-1,9892051345
+Dr. Amol Pawar,MMC/2015/92318,"MBBS, MD",Pulmonology,Narhe Chest Clinic,1,Narhe,"Tue-Sat 10-1, 5-8",9762015478
+Dr. Rutuja Deshmukh,MMC/2017/93410,"MBBS, MD",Dermatology,Narhe Skin Clinic,1,Narhe,"Mon-Sat 11-2, 6-9",9832145870
+Dr. Sachin More,MMC/2016/92873,"MBBS, MS",Urology,Narhe Uro Clinic,0,Narhe,"Mon-Fri 10-1, 6-8",9851473021
+Dr. Anjali Phadke,MMC/2019/93921,"MBBS, MS",Ophthalmology,Narhe Eye Care,1,Narhe,"Mon-Sat 9-1, 5-8",9823164098
+Dr. Rahul Inamdar,MMC/2010/91124,"MBBS, DM",Neurology,Narhe Neuro Clinic,1,Narhe,"Tue-Sat 10-1, 6-9",9862013548
+Dr. Kiran Gaikwad,MMC/2014/92563,"MBBS, MS",Otorhinolaryngology,Narhe ENT Clinic,0,Narhe,"Mon-Sat 10-1, 5-8",9792013547
+Dr. Aparna Joshi,MMC/2013/91834,"MBBS, MD",Psychiatry,Narhe Mind Care,1,Narhe,"Mon-Fri 11-2, 6-9",9882145876
+Dr. Chetan Shinde,MMC/2018/93542,"BDS, MDS",Dentistry,Narhe Dental Clinic,1,Narhe,"Mon-Sat 9-1, 5-9",9762018547
+Dr. Prashant Kulkarni,MMC/2012/91563,"MBBS, MD",General Medicine,Narhe Family Clinic,1,Narhe,"Mon-Sat 10-1, 6-9",9823075142
+Dr. Seema Tawade,MMC/2016/92983,"MBBS, DM",Endocrinology,Narhe Endocrine Care,0,Narhe,"Tue-Sat 10-1, 5-8",9812057642
+Dr. Vaishali Naik,MMC/2015/92741,"MBBS, MD",Gynecology,Pimple Saudagar Women's Clinic,1,Pimple Saudagar,"Mon-Fri 10-1, 5-8",9852176401
+Dr. Ramesh Pawar,MMC/2011/91392,"MBBS, MS",Orthopedics,Pimple Saudagar Ortho Care,0,Pimple Saudagar,"Tue-Sat 9-12, 6-9",9765413082
+Dr. Shweta Gokhale,MMC/2017/93217,"MBBS, MD",Pediatrics,Healthy Kids Care,1,Pimple Saudagar,"Mon-Fri 11-2, 5-8",9823017642
+Dr. Ashok Khopkar,MMC/2013/91873,"MBBS, DM",Cardiology,Pimple Saudagar Heart Clinic,1,Pimple Saudagar,"Mon-Sat 10-1, 6-9",9812456310
+Dr. Anita More,MMC/2012/91548,"MBBS, MD",Pathology,Pimple Saudagar Diagnostics,0,Pimple Saudagar,Mon-Fri 9-1,9862031574
+Dr. Vivek Shirole,MMC/2019/93974,"MBBS, MD",Pulmonology,Pimple Saudagar Chest Care,1,Pimple Saudagar,"Tue-Sat 10-1, 5-8",9762035471
+Dr. Reema Deshpande,MMC/2016/92831,"MBBS, MD",Dermatology,Pimple Saudagar Skin Clinic,1,Pimple Saudagar,"Mon-Sat 11-2, 6-9",9822035417
+Dr. Nitin Jagtap,MMC/2014/92410,"MBBS, MS",Urology,Pimple Saudagar Uro Care,0,Pimple Saudagar,"Mon-Fri 10-1, 6-8",9892013574
+Dr. Archana Shah,MMC/2010/91189,"MBBS, MS",Ophthalmology,Pimple Saudagar Eye Clinic,1,Pimple Saudagar,"Mon-Sat 9-1, 5-8",9762013578
+Dr. Anil Karande,MMC/2018/93620,"MBBS, DM",Neurology,Pimple Saudagar Neuro Clinic,1,Pimple Saudagar,"Tue-Sat 10-1, 6-9",9812035476
+Dr. Neha Jadhav,MMC/2013/91764,"MBBS, MS",Otorhinolaryngology,Pimple Saudagar ENT Care,0,Pimple Saudagar,"Mon-Sat 10-1, 5-8",9822017643
+Dr. Pooja Ingle,MMC/2012/91641,"MBBS, MD",Psychiatry,Pimple Saudagar Mind Clinic,1,Pimple Saudagar,"Mon-Fri 11-2, 6-9",9872013561
+Dr. Akshay Patankar,MMC/2015/92684,"BDS, MDS",Dentistry,Pimple Saudagar Dental Care,1,Pimple Saudagar,"Mon-Sat 9-1, 5-9",9832014763
+Dr. Milind Kulkarni,MMC/2017/93154,"MBBS, MD",General Medicine,Pimple Saudagar Family Health,1,Pimple Saudagar,"Mon-Sat 10-1, 6-9",9812053174
+Dr. Smita Joshi,MMC/2011/91278,"MBBS, DM",Endocrinology,Pimple Saudagar Endocrine Center,0,Pimple Saudagar,"Tue-Sat 10-1, 5-8",9842013567
+Dr. Anjali Jagtap,MMC/2013/91792,"MBBS, MD",Gynecology,Mundhwa Women's Clinic,1,Mundhwa,"Mon-Fri 10-1, 5-8",9823164571
+Dr. Sandeep Patil,MMC/2011/91263,"MBBS, MS",Orthopedics,Mundhwa Ortho Care,0,Mundhwa,"Tue-Sat 9-12, 6-9",9765032145
+Dr. Meera Kulkarni,MMC/2018/93642,"MBBS, MD",Pediatrics,Healthy Kids Mundhwa,1,Mundhwa,"Mon-Fri 11-2, 5-8",9852013648
+Dr. Ashwini Deshpande,MMC/2015/92713,"MBBS, DM",Cardiology,Mundhwa Heart Clinic,1,Mundhwa,"Mon-Sat 10-1, 6-9",9812045123
+Dr. Raghav Joshi,MMC/2012/91642,"MBBS, MD",Pathology,Mundhwa Diagnostics,0,Mundhwa,Mon-Fri 9-1,9892013572
+Dr. Prachi Shinde,MMC/2017/93264,"MBBS, MD",Pulmonology,Mundhwa Chest Care,1,Mundhwa,"Tue-Sat 10-1, 5-8",9762015342
+Dr. Varsha Naik,MMC/2016/92873,"MBBS, MD",Dermatology,Mundhwa Skin & Hair Clinic,1,Mundhwa,"Mon-Sat 11-2, 6-9",9822013647
+Dr. Kunal Tawade,MMC/2014/92314,"MBBS, MS",Urology,Mundhwa Urology Center,0,Mundhwa,"Mon-Fri 10-1, 6-8",9832014576
+Dr. Neeta Gokhale,MMC/2019/93821,"MBBS, MS",Ophthalmology,Mundhwa Eye Care,1,Mundhwa,"Mon-Sat 9-1, 5-8",9862014572
+Dr. Mahesh Gaikwad,MMC/2010/91147,"MBBS, DM",Neurology,Mundhwa Neuro Clinic,1,Mundhwa,"Tue-Sat 10-1, 6-9",9812031546
+Dr. Kavya Pawar,MMC/2013/91862,"MBBS, MS",Otorhinolaryngology,Mundhwa ENT Care,0,Mundhwa,"Mon-Sat 10-1, 5-8",9872013648
+Dr. Rajeshwari Inamdar,MMC/2012/91584,"MBBS, MD",Psychiatry,Mundhwa Mind Care,1,Mundhwa,"Mon-Fri 11-2, 6-9",9823015478
+Dr. Omkar Chavan,MMC/2016/92973,"BDS, MDS",Dentistry,Mundhwa Dental Care,1,Mundhwa,"Mon-Sat 9-1, 5-9",9762013459
+Dr. Pramod Rane,MMC/2011/91347,"MBBS, MD",General Medicine,Mundhwa Family Health,1,Mundhwa,"Mon-Sat 10-1, 6-9",9892045316
+Dr. Shilpa More,MMC/2014/92486,"MBBS, DM",Endocrinology,Mundhwa Endocrine Center,0,Mundhwa,"Tue-Sat 10-1, 5-8",9842013547
